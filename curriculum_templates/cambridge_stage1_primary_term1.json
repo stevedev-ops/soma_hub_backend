@@ -1,0 +1,830 @@
+{
+  "curriculum": {
+    "code": "CAMBRIDGE",
+    "name": "Cambridge International Primary (UK)",
+    "tagline": "Global gold-standard curriculum preparing learners for IGCSE",
+    "description": "CAIE framework developing confidence, inquiry, and critical thinking."
+  },
+  "term_package": {
+    "grade_level": "Stage 1 (Primary)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Stage 1 Cambridge Primary - Term 1 Master Box",
+    "subtitle": "CAIE Aligned: Primary English (0058), Mathematics (0096), Science (0097)",
+    "price_kes": 8000.0,
+    "badge": "Cambridge CAIE Stage 1 Certified",
+    "features": [
+      "12 Weeks of British International Curriculum Guides",
+      "Phonics, Sight Words & Guided Story Reading Framework",
+      "Concrete-Pictorial-Abstract (CPA) Mathematics",
+      "Scientific Inquiry: Plants, Habitats, Light & Shadows"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Numbers to 10 & Our Senses",
+      "strand": "Number Sense & Scientific Enquiry",
+      "sub_strand": "Counting, Number Bonds to 10 & The 5 Senses",
+      "printable_pack_title": "Stage 1 Cambridge Week 1 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Count to 10 with 1-to-1 correspondence",
+        "Explore taste, smell, touch, sight, and hearing",
+        "Blend simple 3-letter words"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Number Bonds to 10 with Ten-Frames",
+          "parent_script": "Look at this ten-frame. If we place 6 red counters, how many empty spaces are left to make 10?",
+          "learning_objective": "Recall number pairs that add up to 10 with automaticity.",
+          "local_materials": [
+            "10-frame mat",
+            "10 counters"
+          ],
+          "step_by_step_activity": "1. Place 7 counters on the ten-frame.\n2. Discover that 7 + 3 = 10.\n3. Record all number bond combinations in math journal.",
+          "worksheet_name": "Worksheet #1.1 (Ten-Frame Bonds to 10)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Exploring the 5 Senses: The Mystery Box",
+          "parent_script": "Close your eyes! Put your hand in this mystery box. Describe the texture without peeking!",
+          "learning_objective": "Identify body organs associated with each sense and use descriptive scientific vocabulary.",
+          "local_materials": [
+            "Shoebox with hand hole",
+            "Cotton",
+            "Lemon",
+            "Bell"
+          ],
+          "step_by_step_activity": "1. Blindfolded texture test.\n2. Scent identification.\n3. Complete the 5 Senses observation chart.",
+          "worksheet_name": "Worksheet #1.2 (My 5 Senses Observation Log)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Guided Reading: Character & Setting in Fiction",
+          "parent_script": "Look at the book cover. Where do you think this story takes place? Who is the main character?",
+          "learning_objective": "Make simple predictions and identify character and setting in an illustrated story.",
+          "local_materials": [
+            "Stage 1 Reader",
+            "Colored pencils"
+          ],
+          "step_by_step_activity": "1. Read the story aloud together.\n2. Identify the setting.\n3. Draw the main character doing their favourite activity.",
+          "worksheet_name": "Worksheet #1.3 (Story Map: Character & Setting)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Cambridge Science Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "Cambridge English Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Cambridge Science Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "Cambridge English Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Cambridge Science Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "Cambridge English Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Cambridge Science Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "Cambridge English Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Cambridge Science Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "Cambridge English Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Cambridge Science Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "Cambridge English Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Cambridge Science Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "Cambridge English Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Cambridge Science Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "Cambridge English Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Cambridge Science Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "Cambridge English Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Cambridge Science Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "Cambridge English Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Stage 1 (Primary) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Cambridge Mathematics.",
+          "local_materials": [
+            "Ten-frames",
+            "Counters",
+            "Grid paper"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Cambridge Science.",
+          "local_materials": [
+            "Magnifier",
+            "Plant leaves",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Cambridge Science Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge English - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Cambridge English.",
+          "local_materials": [
+            "Oxford storybook",
+            "Lined notebook"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "Cambridge English Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

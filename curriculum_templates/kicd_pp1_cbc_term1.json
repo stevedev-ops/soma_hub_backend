@@ -1,0 +1,819 @@
+{
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "Practical, value-driven, KICD-aligned learning for Kenyan families",
+    "description": "Approved by KICD for Pre-Primary Early Years Education (PP1 & PP2)."
+  },
+  "term_package": {
+    "grade_level": "PP1 (Pre-Primary 1)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "PP1 CBC - Term 1 Early Years Activity Box",
+    "subtitle": "KICD Early Years Aligned: Language, Math Activities, Environmental, Psychomotor & Creative Arts",
+    "price_kes": 5500.0,
+    "badge": "KICD Early Years Certified",
+    "features": [
+      "12 Weeks of Play-Based Sensory & Pre-Literacy Lessons",
+      "Phonics & Letter Sound Recognition with Household Items",
+      "Pre-Number Sorting, Counting & Color Discovery Activities",
+      "Weekly Sunday Printable Color Activity Sheets"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Self & Immediate Environment",
+      "strand": "All About Me",
+      "sub_strand": "My Body Parts & Personal Hygiene",
+      "printable_pack_title": "PP1 Week 1 Sensory & Tracing Pack (PDF)",
+      "page_count": 10,
+      "learning_outcomes": [
+        "Identify body parts",
+        "Sing hygiene rhymes",
+        "Trace straight and curved lines"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 35,
+          "topic": "Oral Expression: My Name and Greeting",
+          "parent_script": "Greet your child: Habari ya asubuhi! Tell me your full name with a big smile!",
+          "learning_objective": "Learner introduces themselves clearly and practices polite greetings.",
+          "local_materials": [
+            "Hand mirror",
+            "Family photo"
+          ],
+          "step_by_step_activity": "1. Look in mirror together.\n2. Say My name is [Child].\n3. Practice shaking hands.",
+          "worksheet_name": "Worksheet #1.1 (Draw Your Face)",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 35,
+          "topic": "Sorting Everyday Objects by Color (Red & Blue)",
+          "parent_script": "Collect red and blue bottle caps from our kitchen basket.",
+          "learning_objective": "Sort at least 6 household items into red and blue bowls accurately.",
+          "local_materials": [
+            "Bottle caps",
+            "Colored pegs",
+            "Two bowls"
+          ],
+          "step_by_step_activity": "1. Place caps in mixed pile.\n2. Pick red into red basin.\n3. Count each color.",
+          "worksheet_name": "Worksheet #1.2 (Color the Balloons)",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 35,
+          "topic": "Handwashing Routine with Soap & Water",
+          "parent_script": "Sing the 20-second bubbly handwashing song while rubbing palms and fingers!",
+          "learning_objective": "Demonstrate the 5 steps of proper hygienic handwashing.",
+          "local_materials": [
+            "Soap bar",
+            "Water cup",
+            "Towel"
+          ],
+          "step_by_step_activity": "1. Wet hands.\n2. Lather soap for 20s.\n3. Rinse thoroughly and dry.",
+          "worksheet_name": "Worksheet #1.3 (Hygiene Sequencing)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Language Activities Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "Environmental Activities Worksheet #2.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Language Activities Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "Environmental Activities Worksheet #3.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Language Activities Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "Environmental Activities Worksheet #4.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Language Activities Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "Environmental Activities Worksheet #5.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Language Activities Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "Environmental Activities Worksheet #6.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Language Activities Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "Environmental Activities Worksheet #7.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Language Activities Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "Environmental Activities Worksheet #8.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Language Activities Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "Environmental Activities Worksheet #9.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Language Activities Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "Environmental Activities Worksheet #10.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Language Activities Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "Environmental Activities Worksheet #11.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "PP1 (Pre-Primary 1) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Language Activities",
+          "time_slot": "08:30 AM - 09:05 AM",
+          "duration_minutes": 40,
+          "topic": "Language Activities - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Language Activities.",
+          "local_materials": [
+            "Phonics cards",
+            "Drawing book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Language Activities Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Mathematical Activities",
+          "time_slot": "09:15 AM - 09:50 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematical Activities - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Mathematical Activities.",
+          "local_materials": [
+            "Bottle caps",
+            "Counting sticks"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Mathematical Activities Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:15 AM - 10:50 AM",
+          "duration_minutes": 40,
+          "topic": "Environmental Activities - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Environmental Activities.",
+          "local_materials": [
+            "Water cup",
+            "Leaves",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "Environmental Activities Worksheet #12.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    }
+  ]
+}

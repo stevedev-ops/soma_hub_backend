@@ -1,0 +1,831 @@
+{
+  "curriculum": {
+    "code": "CAMBRIDGE",
+    "name": "Cambridge International Primary (UK)",
+    "tagline": "Global gold-standard curriculum preparing learners for IGCSE",
+    "description": "CAIE Lower Secondary Checkpoint preparing learners for IGCSE."
+  },
+  "term_package": {
+    "grade_level": "Stage 7 (Lower Secondary)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Stage 7 Cambridge Lower Secondary - Term 1 Checkpoint Box",
+    "subtitle": "CAIE Aligned: Lower Secondary English (0861), Mathematics (0862), Science (0893), Global Perspectives",
+    "price_kes": 9500.0,
+    "badge": "Cambridge Checkpoint Prep",
+    "features": [
+      "12 Deep Inquiry Modules preparing for Cambridge Checkpoint",
+      "Cells, Atomic Theory, Forces & Energy Transformations",
+      "Algebraic Expressions, Linear Equations & Ratio/Proportion",
+      "Global Perspectives Research Challenges & Critical Analysis"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Cellular Structure & Algebraic Foundations",
+      "strand": "Biology & Pure Mathematics",
+      "sub_strand": "Plant vs Animal Cells & Simplifying Algebraic Terms",
+      "printable_pack_title": "Stage 7 Cambridge Week 1 Printable Pack (PDF)",
+      "page_count": 14,
+      "learning_outcomes": [
+        "Compare specialized plant and animal cells under magnification",
+        "Simplify linear expressions with brackets",
+        "Analyze global climate indicators"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science (0893)",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 55,
+          "topic": "Cell Biology: Onion Epidermal Wet Mount Investigation",
+          "parent_script": "Every living organism is built from microscopic cells. Today we prepare a real plant slide to observe cell walls and nuclei.",
+          "learning_objective": "Prepare a wet mount slide of onion epidermis and distinguish cell wall, cytoplasm, and nucleus.",
+          "local_materials": [
+            "Onion bulb",
+            "Microscope or pocket lens",
+            "Glass slide",
+            "Iodine"
+          ],
+          "step_by_step_activity": "1. Peel thin transparent onion membrane.\n2. Add one drop of iodine stain.\n3. View at 100x and 400x magnification and sketch labeled diagram.",
+          "worksheet_name": "Worksheet #1.1 (Onion Cell Micrograph & Annotations)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics (0862)",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 55,
+          "topic": "Algebraic Manipulation & Expanding Single Brackets",
+          "parent_script": "Variables allow us to represent generalized patterns. Let us use the distributive property to expand expressions.",
+          "learning_objective": "Expand and simplify expressions of the form a(bx + c) + d(ex + f).",
+          "local_materials": [
+            "Grid paper",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Geometric area model of expansion.\n2. Work through 8 stepped algebraic problems.\n3. Check solutions with substitution.",
+          "worksheet_name": "Worksheet #1.2 (Distributive Law & Algebraic Simplification)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Global Perspectives (0876)",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 55,
+          "topic": "Analyzing Global Water Scarcity & Evidence Evaluation",
+          "parent_script": "Global Perspectives trains you to evaluate sources, detect bias, and propose sustainable local solutions.",
+          "learning_objective": "Synthesize data from two international NGO reports and evaluate perspectives on water conservation.",
+          "local_materials": [
+            "UNICEF Water Report extract",
+            "Highlighter",
+            "Research notebook"
+          ],
+          "step_by_step_activity": "1. Annotate key statistical claims.\n2. Compare rural vs urban access disparities in East Africa.\n3. Write a 200-word critical perspective brief.",
+          "worksheet_name": "Worksheet #1.3 (Global Water Brief & Source Evaluation)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Cambridge Science Worksheet #2.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #2.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Cambridge Science Worksheet #3.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #3.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Cambridge Science Worksheet #4.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #4.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Cambridge Science Worksheet #5.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #5.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Cambridge Science Worksheet #6.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #6.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Cambridge Science Worksheet #7.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #7.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Cambridge Science Worksheet #8.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #8.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Cambridge Science Worksheet #9.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #9.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Cambridge Science Worksheet #10.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #10.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Cambridge Science Worksheet #11.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #11.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Stage 7 (Lower Secondary) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Science",
+          "time_slot": "08:30 AM - 09:25 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Science - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Cambridge Science.",
+          "local_materials": [
+            "Science journal",
+            "Slide kit",
+            "Chemical reagents"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Cambridge Science Worksheet #12.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "09:35 AM - 10:30 AM",
+          "duration_minutes": 40,
+          "topic": "Cambridge Mathematics - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Cambridge Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Algebra tiles",
+            "Graph book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Cambridge Mathematics Worksheet #12.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Global Perspectives",
+          "time_slot": "10:45 AM - 11:40 AM",
+          "duration_minutes": 40,
+          "topic": "English & Global Perspectives - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 English & Global Perspectives.",
+          "local_materials": [
+            "Research paper excerpts",
+            "Thesaurus"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "English & Global Perspectives Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

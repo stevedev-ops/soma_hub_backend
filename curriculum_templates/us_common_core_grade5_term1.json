@@ -1,0 +1,830 @@
+{
+  "curriculum": {
+    "code": "US_COMMON_CORE",
+    "name": "US Common Core & Next Gen Science (American K-12)",
+    "tagline": "Standards-based American curriculum with NGSS STEM integration",
+    "description": "American K-12 standards emphasizing conceptual math, text-based evidence writing, and Next Generation Science Standards."
+  },
+  "term_package": {
+    "grade_level": "Grade 5 (US)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 5 US Common Core - Term 1 STEM & Literacy Box",
+    "subtitle": "Common Core State Standards (CCSS) & NGSS Aligned: ELA, Math, STEM Science, Social Studies",
+    "price_kes": 7500.0,
+    "badge": "US Standards CCSS / NGSS",
+    "features": [
+      "12 CCSS Aligned Modules (Operations, Fractions, Volume & Decimals)",
+      "NGSS Engineering Design Challenges & Earth Systems Practicals",
+      "Text Evidence Argumentative & Informational Writing Units",
+      "Printable US Standardized Practice & Rubrics"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Place Value Decimals & Earth Spheres",
+      "strand": "CCSS.MATH.5.NBT & NGSS.5-ESS2",
+      "sub_strand": "Decimal Operations to Thousandths & Geosphere-Hydrosphere Interactions",
+      "printable_pack_title": "Grade 5 CCSS Week 1 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Read, write, and compare decimals to thousandths",
+        "Explain interactions between Earth spheres",
+        "Quote accurately from informational text"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Common Core Math (5.NBT)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Powers of 10 & Multiplying Decimals",
+          "parent_script": "How does shifting a decimal point one place to the right change its value? Let us discover the power of 10 patterns.",
+          "learning_objective": "Explain patterns in the number of zeros of the product when multiplying by powers of 10.",
+          "local_materials": [
+            "Decimal grids",
+            "Dry erase marker"
+          ],
+          "step_by_step_activity": "1. Model 0.4 x 10 and 0.4 x 100 on grid paper.\n2. Derive exponent rules for 10^1, 10^2, 10^3.\n3. Complete 10 multi-step decimal problems.",
+          "worksheet_name": "Worksheet #1.1 (Powers of 10 Decimal Progression)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS Science (5-ESS2 Earth Systems)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Interactions of Geosphere, Hydrosphere, Atmosphere, and Biosphere",
+          "parent_script": "Earth is a giant interconnected system. How does the water cycle connect the ocean (hydrosphere) to the air (atmosphere)?",
+          "learning_objective": "Develop a model using an example to describe ways the geosphere, biosphere, hydrosphere, and atmosphere interact.",
+          "local_materials": [
+            "Mason jar",
+            "Warm water",
+            "Ice cubes",
+            "Flashlight"
+          ],
+          "step_by_step_activity": "1. Create a closed terrarium / water cycle cloud in a jar.\n2. Observe condensation and precipitation cycles.\n3. Diagram the 4 spheres interacting in your neighborhood.",
+          "worksheet_name": "Worksheet #1.2 (Earth System Sphere Interaction Model)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA (Reading Informational Text 5.RI)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Citing Text Evidence in Informational Articles",
+          "parent_script": "Whenever we make an assertion about a text, we must prove it with direct evidence: According to paragraph 2...",
+          "learning_objective": "Quote accurately from a text when explaining what the text says explicitly and when drawing inferences.",
+          "local_materials": [
+            "Science article printout",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Read the article on renewable solar energy.\n2. Highlight author claim in green and supporting statistics in yellow.\n3. Write a 3-paragraph summary with 2 direct quotes.",
+          "worksheet_name": "Worksheet #1.3 (Evidence-Based Text Analysis)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Grade 5 (US) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "CCSS Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS Mathematics - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 CCSS Mathematics.",
+          "local_materials": [
+            "Base-10 grid",
+            "Ruler",
+            "Math journal"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "CCSS Mathematics Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "NGSS STEM Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "NGSS STEM Science - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 NGSS STEM Science.",
+          "local_materials": [
+            "Mason jar",
+            "Thermometer",
+            "Ice cubes"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "NGSS STEM Science Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "CCSS ELA & Social Studies",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "CCSS ELA & Social Studies - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 CCSS ELA & Social Studies.",
+          "local_materials": [
+            "Informational text",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "CCSS ELA & Social Studies Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

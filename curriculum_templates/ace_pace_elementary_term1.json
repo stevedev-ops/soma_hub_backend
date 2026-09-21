@@ -1,0 +1,820 @@
+{
+  "curriculum": {
+    "code": "ACE",
+    "name": "Accelerated Christian Education (A.C.E.)",
+    "tagline": "PACE individualized character-building mastery curriculum",
+    "description": "Biblically-integrated, self-paced mastery learning utilizing Packet of Accelerated Christian Education (PACE) workbooks."
+  },
+  "term_package": {
+    "grade_level": "Elementary (Grade 4 PACEs)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "A.C.E. Elementary Term 1 Complete PACE Pack",
+    "subtitle": "Individualized PACE Mastery: Math, English, Science, Social Studies, Word Building, Bible Reading",
+    "price_kes": 7000.0,
+    "badge": "A.C.E. Individualized Mastery",
+    "features": [
+      "Self-Instructional Daily Goal Setting & Goal Cards",
+      "Score Key Checkpoint Procedures & Self-Scoring System",
+      "Character Trait Focus: Attentiveness, Diligence & Resourcefulness",
+      "Comprehensive Checkups, Self-Tests & Final PACE Tests"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Goal Setting & Creation Order (PACE 1037)",
+      "strand": "Individualized Mastery & Biblical Worldview",
+      "sub_strand": "Multiplication Mastery, Nouns & Creation Science",
+      "printable_pack_title": "A.C.E. PACE 1037 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Set daily page goals on Goal Card",
+        "Score PACE pages at scoring station with red pen",
+        "Achieve 90%+ on Self-Test"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE 1037",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Multiplication Facts 0-9 & Word Problems",
+          "parent_script": "Set your daily goal on your goal card: Complete pages 1-4 with diligence and accuracy.",
+          "learning_objective": "Solve 20 single and double-digit multiplication problems and score at scoring station.",
+          "local_materials": [
+            "Math PACE 1037",
+            "Goal Card",
+            "Red scoring pen",
+            "Score Key"
+          ],
+          "step_by_step_activity": "1. Complete pages 1 to 4 independently.\n2. Proceed to scoring station, score with red pen.\n3. Correct any mistakes and rescore.",
+          "worksheet_name": "PACE 1037 Pages 1-4 Checkup",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE 1037",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "The Solar System & Planetary Orbits",
+          "parent_script": "Science reveals the order of creation. Read page 3 aloud and observe the planetary orbits.",
+          "learning_objective": "Identify the 8 planets in order from the Sun and explain gravity.",
+          "local_materials": [
+            "Science PACE 1037",
+            "Colored pencils",
+            "Styrofoam spheres"
+          ],
+          "step_by_step_activity": "1. Read lesson narrative on page 2.\n2. Fill in planetary characteristics table.\n3. Memorize character scripture verse on Diligence.",
+          "worksheet_name": "Science PACE 1037 Checkup #1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building 1037",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Common and Proper Nouns & Capitalization",
+          "parent_script": "Words are building blocks of thought. Identify the proper nouns in Ace and Christy dialogue.",
+          "learning_objective": "Distinguish common nouns from proper nouns and apply correct capitalization rules.",
+          "local_materials": [
+            "English PACE 1037",
+            "Word Building 1037"
+          ],
+          "step_by_step_activity": "1. Complete Word Building phonetic list #1.\n2. Circle proper nouns in the paragraph.\n3. Complete daily vocabulary review.",
+          "worksheet_name": "English PACE 1037 Checkup #1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Math PACE Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Science PACE Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "English & Word Building Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Math PACE Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Science PACE Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "English & Word Building Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Math PACE Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Science PACE Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "English & Word Building Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Math PACE Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Science PACE Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "English & Word Building Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Math PACE Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Science PACE Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "English & Word Building Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Math PACE Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Science PACE Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "English & Word Building Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Math PACE Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Science PACE Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "English & Word Building Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Math PACE Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Science PACE Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "English & Word Building Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Math PACE Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Science PACE Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "English & Word Building Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Math PACE Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Science PACE Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "English & Word Building Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Elementary (Grade 4 PACEs) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Math PACE",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Math PACE - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Math PACE.",
+          "local_materials": [
+            "PACE booklet",
+            "Score key",
+            "Red pen"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Math PACE Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science PACE",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Science PACE - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Science PACE.",
+          "local_materials": [
+            "Science PACE",
+            "Colored markers"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Science PACE Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English & Word Building",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "English & Word Building - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 English & Word Building.",
+          "local_materials": [
+            "English PACE",
+            "Dictionary"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "English & Word Building Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+print("WSL base64 write works!")

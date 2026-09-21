@@ -1,0 +1,816 @@
+{
+  "curriculum": {
+    "code": "CAMBRIDGE",
+    "name": "Cambridge International Primary (UK)",
+    "tagline": "CAIE Aligned",
+    "description": "British International CAIE framework."
+  },
+  "term_package": {
+    "grade_level": "Stage 4 (Primary)",
+    "term": 2,
+    "academic_year": 2026,
+    "title": "Stage 4 Cambridge Primary - Term 2 Master Box",
+    "subtitle": "CAIE Aligned: Fractions & Decimals, States of Matter, Non-Fiction Information Reports",
+    "price_kes": 8500.0,
+    "badge": "Cambridge CAIE Gold Standard",
+    "features": [
+      "12 Weeks CAIE Stage 4 Term 2 Guides",
+      "States of Matter & Solid-Liquid Transitions",
+      "Informational Text Analysis & Writing"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Term 2 Week 1: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 1 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 1 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 1",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#1.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#1.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#1.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Term 2 Week 2: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 2 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 2",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Term 2 Week 3: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 3 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 3",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Term 2 Week 4: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 4 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 4",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Term 2 Week 5: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 5 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 5",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Term 2 Week 6: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 6 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 6",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Term 2 Week 7: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 7 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 7",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Term 2 Week 8: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 8 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 8",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Term 2 Week 9: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 9 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 9",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Term 2 Week 10: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 10 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 10",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Term 2 Week 11: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 11 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 11",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Term 2 Week 12: Advanced Competency & Exploration",
+      "strand": "Term 2 Core Applied Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Stage 4 (Primary) Term 2 Week 12 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 2 core competencies for week 12",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Mathematics - Term 2 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Mathematics.",
+          "local_materials": [
+            "Fractions chart",
+            "Calculator"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Mathematics Worksheet T2#12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge Science - Term 2 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge Science.",
+          "local_materials": [
+            "Ice cubes",
+            "Thermometer",
+            "Beaker"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge Science Worksheet T2#12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge English",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Cambridge English - Term 2 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 2 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 2 Cambridge English.",
+          "local_materials": [
+            "Non-fiction reader",
+            "Highlighters"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Cambridge English Worksheet T2#12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

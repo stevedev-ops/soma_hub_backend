@@ -1,0 +1,1406 @@
+{
+  "curriculum": {
+    "code": "CAMBRIDGE",
+    "name": "Cambridge International Primary (UK)",
+    "tagline": "Global gold-standard curriculum preparing learners for IGCSE",
+    "description": "Rigorous British international curriculum emphasizing deep conceptual inquiry in English, Mathematics, Science, and Global Perspectives."
+  },
+  "term_package": {
+    "grade_level": "Year 5 / Stage 4",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Stage 4 Cambridge Primary - Term 1 Master Homeschool Box",
+    "subtitle": "CAIE Aligned: Primary English (0058), Mathematics (0096), Science (0097), Computing (0059)",
+    "price_kes": 8500.0,
+    "badge": "Cambridge CAIE Gold Standard",
+    "features": [
+      "12 Complete British International Weekly Modules",
+      "60 Daily Lesson Plans Aligned with Cambridge Framework",
+      "Weekly Consolidate Stage 4 Printable Activity Packs",
+      "Cambridge Progression Test Preparation Questions",
+      "Global Perspectives Exploration Challenges"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Number Systems & Scientific Inquiry",
+      "strand": "Number Sense & Enquiry",
+      "sub_strand": "Place value to 100,000 & Scientific questioning",
+      "printable_pack_title": "Stage 4 Week 1 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Number Systems & Scientific Inquiry.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Number Systems",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Number Systems. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Place value to 100,000 & Scientific questioning with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #1.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Number Systems",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Number Systems. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Place value to 100,000 & Scientific questioning with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #1.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Number Systems",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Number Systems. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Place value to 100,000 & Scientific questioning with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #1.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Number Systems",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Number Systems. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Place value to 100,000 & Scientific questioning with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #1.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Number Systems",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Number Systems. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Place value to 100,000 & Scientific questioning with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #1.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Mental Multiplication & States of Matter",
+      "strand": "Operations & Chemistry",
+      "sub_strand": "Multiplication factors & Solids, liquids, gases",
+      "printable_pack_title": "Stage 4 Week 2 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Mental Multiplication & States of Matter.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Mental Multiplication",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mental Multiplication. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multiplication factors & Solids, liquids, gases with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Mental Multiplication",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mental Multiplication. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multiplication factors & Solids, liquids, gases with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Mental Multiplication",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mental Multiplication. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multiplication factors & Solids, liquids, gases with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Mental Multiplication",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mental Multiplication. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multiplication factors & Solids, liquids, gases with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #2.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Mental Multiplication",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mental Multiplication. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multiplication factors & Solids, liquids, gases with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #2.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Fractions & Skeleton Structure",
+      "strand": "Fractions & Biology",
+      "sub_strand": "Fractions of quantities & Human skeletal framework",
+      "printable_pack_title": "Stage 4 Week 3 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Fractions & Skeleton Structure.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Fractions",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Fractions. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Fractions of quantities & Human skeletal framework with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Fractions",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Fractions. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Fractions of quantities & Human skeletal framework with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Fractions",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Fractions. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Fractions of quantities & Human skeletal framework with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Fractions",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Fractions. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Fractions of quantities & Human skeletal framework with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #3.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Fractions",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Fractions. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Fractions of quantities & Human skeletal framework with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #3.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Measurement & Electrical Circuits",
+      "strand": "Geometry & Physics",
+      "sub_strand": "Perimeter of polygons & Simple electric circuits",
+      "printable_pack_title": "Stage 4 Week 4 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Measurement & Electrical Circuits.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Measurement",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Measurement. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Perimeter of polygons & Simple electric circuits with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Measurement",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Measurement. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Perimeter of polygons & Simple electric circuits with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Measurement",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Measurement. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Perimeter of polygons & Simple electric circuits with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Measurement",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Measurement. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Perimeter of polygons & Simple electric circuits with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #4.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Measurement",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Measurement. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Perimeter of polygons & Simple electric circuits with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #4.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Decimals & Plant Reproduction",
+      "strand": "Decimals & Botany",
+      "sub_strand": "Tenths and hundredths & Flowering plant lifecycle",
+      "printable_pack_title": "Stage 4 Week 5 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Decimals & Plant Reproduction.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Decimals",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Decimals. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Tenths and hundredths & Flowering plant lifecycle with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Decimals",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Decimals. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Tenths and hundredths & Flowering plant lifecycle with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Decimals",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Decimals. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Tenths and hundredths & Flowering plant lifecycle with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Decimals",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Decimals. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Tenths and hundredths & Flowering plant lifecycle with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #5.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Decimals",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Decimals. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Tenths and hundredths & Flowering plant lifecycle with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #5.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Angles, Compass Points & Habitats",
+      "strand": "Geometry & Ecology",
+      "sub_strand": "Acute, obtuse angles & Ecosystem food chains",
+      "printable_pack_title": "Stage 4 Week 6 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Angles, Compass Points & Habitats.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Angles, Compass Points",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Angles, Compass Points. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Acute, obtuse angles & Ecosystem food chains with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Angles, Compass Points",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Angles, Compass Points. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Acute, obtuse angles & Ecosystem food chains with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Angles, Compass Points",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Angles, Compass Points. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Acute, obtuse angles & Ecosystem food chains with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Angles, Compass Points",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Angles, Compass Points. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Acute, obtuse angles & Ecosystem food chains with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #6.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Angles, Compass Points",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Angles, Compass Points. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Acute, obtuse angles & Ecosystem food chains with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #6.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Mid-Stage Formative Progression Review",
+      "strand": "Progression Testing",
+      "sub_strand": "Cambridge Checkpoint diagnostic practice",
+      "printable_pack_title": "Stage 4 Week 7 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Mid-Stage Formative Progression Review.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Mid-Stage Formative Progression Review",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mid-Stage Formative Progression Review. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Cambridge Checkpoint diagnostic practice with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Mid-Stage Formative Progression Review",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mid-Stage Formative Progression Review. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Cambridge Checkpoint diagnostic practice with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Mid-Stage Formative Progression Review",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mid-Stage Formative Progression Review. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Cambridge Checkpoint diagnostic practice with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Mid-Stage Formative Progression Review",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mid-Stage Formative Progression Review. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Cambridge Checkpoint diagnostic practice with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #7.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Mid-Stage Formative Progression Review",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Mid-Stage Formative Progression Review. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Cambridge Checkpoint diagnostic practice with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #7.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Data Handling & Sound Vibrations",
+      "strand": "Statistics & Physics",
+      "sub_strand": "Venn diagrams, bar charts & Pitch and loudness",
+      "printable_pack_title": "Stage 4 Week 8 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Data Handling & Sound Vibrations.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Data Handling",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Data Handling. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Venn diagrams, bar charts & Pitch and loudness with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Data Handling",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Data Handling. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Venn diagrams, bar charts & Pitch and loudness with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Data Handling",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Data Handling. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Venn diagrams, bar charts & Pitch and loudness with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Data Handling",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Data Handling. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Venn diagrams, bar charts & Pitch and loudness with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #8.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Data Handling",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Data Handling. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Venn diagrams, bar charts & Pitch and loudness with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #8.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Time, Calendars & Space Science",
+      "strand": "Time & Astronomy",
+      "sub_strand": "24-hour clocks & Earth's rotation and shadows",
+      "printable_pack_title": "Stage 4 Week 9 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Time, Calendars & Space Science.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Time, Calendars",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Time, Calendars. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for 24-hour clocks & Earth's rotation and shadows with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Time, Calendars",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Time, Calendars. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for 24-hour clocks & Earth's rotation and shadows with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Time, Calendars",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Time, Calendars. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for 24-hour clocks & Earth's rotation and shadows with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Time, Calendars",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Time, Calendars. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for 24-hour clocks & Earth's rotation and shadows with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #9.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Time, Calendars",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Time, Calendars. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for 24-hour clocks & Earth's rotation and shadows with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #9.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Money, Problem Solving & Forces",
+      "strand": "Financial & Mechanics",
+      "sub_strand": "Multi-step money problems & Gravity, friction, air resistance",
+      "printable_pack_title": "Stage 4 Week 10 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Money, Problem Solving & Forces.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Money, Problem Solving",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Money, Problem Solving. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multi-step money problems & Gravity, friction, air resistance with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Money, Problem Solving",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Money, Problem Solving. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multi-step money problems & Gravity, friction, air resistance with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Money, Problem Solving",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Money, Problem Solving. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multi-step money problems & Gravity, friction, air resistance with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Money, Problem Solving",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Money, Problem Solving. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multi-step money problems & Gravity, friction, air resistance with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #10.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Money, Problem Solving",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Money, Problem Solving. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Multi-step money problems & Gravity, friction, air resistance with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #10.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Symmetry, Area & Chemistry Investigation",
+      "strand": "Area & Matter",
+      "sub_strand": "Area by counting squares & Dissolving and solutions",
+      "printable_pack_title": "Stage 4 Week 11 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Symmetry, Area & Chemistry Investigation.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Symmetry, Area",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Symmetry, Area. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Area by counting squares & Dissolving and solutions with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Symmetry, Area",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Symmetry, Area. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Area by counting squares & Dissolving and solutions with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Symmetry, Area",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Symmetry, Area. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Area by counting squares & Dissolving and solutions with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Symmetry, Area",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Symmetry, Area. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Area by counting squares & Dissolving and solutions with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #11.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Symmetry, Area",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Symmetry, Area. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Area by counting squares & Dissolving and solutions with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #11.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Cambridge Capstone Exhibition & Mastery",
+      "strand": "Mastery Evaluation",
+      "sub_strand": "Stage 4 portfolio defense & international certificate",
+      "printable_pack_title": "Stage 4 Week 12 Cambridge Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Cambridge Stage 4 learning objectives for Cambridge Capstone Exhibition & Mastery.",
+        "Formulate scientific questions, gather evidence, and interpret results according to CAIE framework.",
+        "Demonstrate fluency in written English syntax and mathematical explanations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Cambridge Mathematics (0096)",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Mathematics: Cambridge Capstone Exhibition",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Cambridge Capstone Exhibition. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Stage 4 portfolio defense & international certificate with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Cambridge Science (0097)",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Science: Cambridge Capstone Exhibition",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Cambridge Capstone Exhibition. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Stage 4 portfolio defense & international certificate with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Cambridge Primary English (0058)",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Cambridge Primary English: Cambridge Capstone Exhibition",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Cambridge Capstone Exhibition. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Stage 4 portfolio defense & international certificate with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Global Perspectives & Computing",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Stage 4 Global Perspectives & Computing: Cambridge Capstone Exhibition",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Cambridge Capstone Exhibition. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Stage 4 portfolio defense & international certificate with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #12.4",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Hands-on STEM & Investigation Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Stage 4 Hands-on STEM & Investigation Lab: Cambridge Capstone Exhibition",
+          "parent_script": "Introduce the lesson: 'Welcome to today\\'s Cambridge Stage 4 investigation on Cambridge Capstone Exhibition. Let\\'s examine the problem on page 2.'",
+          "learning_objective": "Learner meets Cambridge Stage 4 benchmark for Stage 4 portfolio defense & international certificate with structured evidence.",
+          "local_materials": [
+            "Cambridge Stage 4 Learner's Book",
+            "Graph paper",
+            "Ruler",
+            "Pencil",
+            "Household testing items"
+          ],
+          "step_by_step_activity": "1. Review key terminology in the Cambridge glossary.\n2. Work through the 2 guided examples.\n3. Complete the 3 challenge problems independently.",
+          "worksheet_name": "Cambridge Stage 4 Worksheet #12.5",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    }
+  ]
+}

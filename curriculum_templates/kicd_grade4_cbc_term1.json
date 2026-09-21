@@ -1,0 +1,1323 @@
+{
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "Practical, value-driven, KICD-aligned learning for Kenyan families",
+    "description": "Comprehensive national curriculum approved by Kenya Institute of Curriculum Development (KICD) emphasizing core competencies, values, and community service learning."
+  },
+  "term_package": {
+    "grade_level": "Grade 4",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 4 CBC - Term 1 Master Homeschool-in-a-Box",
+    "subtitle": "KICD Syllabi Aligned: Mathematics, Science & Tech, English, Kiswahili, Agriculture & Nutrition",
+    "price_kes": 6500.0,
+    "badge": "Official KICD Standard",
+    "features": [
+      "12 Complete Weekly Curriculum Modules",
+      "60 Daily Zero-Prep Lesson Guides with Parent Scripting",
+      "Weekly 12-Page Printable Activity Packs (PDF)",
+      "KNEC CBA Level 1-4 Performance Assessment Rubrics",
+      "Turnkey Kitchen Science & Balcony Agriculture Labs",
+      "Official MoE Term 1 Statutory Progress Report Card Generator"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Numbers up to 10,000 & Living Things",
+      "strand": "Numbers & Classification",
+      "sub_strand": "Place Value & Plant Forms",
+      "printable_pack_title": "Week 1 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Numbers up to 10,000 & Living Things.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 1 Numeracy: Numbers up to 10,000",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Numbers up to 10,000?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Numbers up to 10,000 with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #1.1 - Numbers up to 10,000",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 1 Science: Place Value & Plant Forms",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Place Value & Plant Forms using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Place Value & Plant Forms and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #1.2 - Place Value & Plant Forms Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 1 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #1.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 1 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #1.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 1 Agri-Tech: Living Things",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Living Things.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #1.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Operations & Separation of Matter",
+      "strand": "Addition & Mixtures",
+      "sub_strand": "Regrouping & Evaporation/Filtration",
+      "printable_pack_title": "Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Operations & Separation of Matter.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 2 Numeracy: Operations",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Operations?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Operations with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #2.1 - Operations",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 2 Science: Regrouping & Evaporation/Filtration",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Regrouping & Evaporation/Filtration using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Regrouping & Evaporation/Filtration and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #2.2 - Regrouping & Evaporation/Filtration Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 2 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #2.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 2 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #2.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 2 Agri-Tech: Separation of Matter",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Separation of Matter.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #2.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Perimeter, Rectangles & Solar Energy",
+      "strand": "Measurement & Energy",
+      "sub_strand": "Perimeter Formulas & Solar Heat",
+      "printable_pack_title": "Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Perimeter, Rectangles & Solar Energy.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 3 Numeracy: Perimeter, Rectangles",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Perimeter, Rectangles?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Perimeter, Rectangles with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #3.1 - Perimeter, Rectangles",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 3 Science: Perimeter Formulas & Solar Heat",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Perimeter Formulas & Solar Heat using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Perimeter Formulas & Solar Heat and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #3.2 - Perimeter Formulas & Solar Heat Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 3 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #3.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 3 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #3.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 3 Agri-Tech: Solar Energy",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Solar Energy.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #3.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Fractions & Human Digestive System",
+      "strand": "Fractions & Anatomy",
+      "sub_strand": "Equivalent Fractions & Internal Organs",
+      "printable_pack_title": "Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Fractions & Human Digestive System.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 4 Numeracy: Fractions",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Fractions?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Fractions with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #4.1 - Fractions",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 4 Science: Equivalent Fractions & Internal Organs",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Equivalent Fractions & Internal Organs using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Equivalent Fractions & Internal Organs and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #4.2 - Equivalent Fractions & Internal Organs Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 4 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #4.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 4 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #4.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 4 Agri-Tech: Human Digestive System",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Human Digestive System.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #4.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Decimals & Multi-Layer Water Purifiers",
+      "strand": "Decimals & Clean Water",
+      "sub_strand": "Tenths/Hundredths & Mechanical Filtration",
+      "printable_pack_title": "Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Decimals & Multi-Layer Water Purifiers.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 5 Numeracy: Decimals",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Decimals?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Decimals with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #5.1 - Decimals",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 5 Science: Tenths/Hundredths & Mechanical Filtration",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Tenths/Hundredths & Mechanical Filtration using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Tenths/Hundredths & Mechanical Filtration and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #5.2 - Tenths/Hundredths & Mechanical Filtration Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 5 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #5.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 5 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #5.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 5 Agri-Tech: Multi-Layer Water Purifiers",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Multi-Layer Water Purifiers.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #5.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "2D Geometry, Symmetry & Animal Habitats",
+      "strand": "Shapes & Ecology",
+      "sub_strand": "Right Angles & Tsavo Wildlife Ecosystems",
+      "printable_pack_title": "Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of 2D Geometry, Symmetry & Animal Habitats.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 6 Numeracy: 2D Geometry, Symmetry",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of 2D Geometry, Symmetry?'",
+          "learning_objective": "Learner correctly applies calculation techniques for 2D Geometry, Symmetry with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #6.1 - 2D Geometry, Symmetry",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 6 Science: Right Angles & Tsavo Wildlife Ecosystems",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Right Angles & Tsavo Wildlife Ecosystems using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Right Angles & Tsavo Wildlife Ecosystems and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #6.2 - Right Angles & Tsavo Wildlife Ecosystems Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 6 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #6.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 6 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #6.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 6 Agri-Tech: Animal Habitats",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Animal Habitats.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #6.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Mid-Term Formative Review & CBA Milestone",
+      "strand": "Assessment & Application",
+      "sub_strand": "KNEC School-Based Assessment Checkpoint",
+      "printable_pack_title": "Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Mid-Term Formative Review & CBA Milestone.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 7 Numeracy: Mid-Term Formative Review",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Mid-Term Formative Review?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Mid-Term Formative Review with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #7.1 - Mid-Term Formative Review",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 7 Science: KNEC School-Based Assessment Checkpoint",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore KNEC School-Based Assessment Checkpoint using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of KNEC School-Based Assessment Checkpoint and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #7.2 - KNEC School-Based Assessment Checkpoint Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 7 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #7.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 7 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #7.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 7 Agri-Tech: CBA Milestone",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for CBA Milestone.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #7.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Measurement: Mass, Balance Scales & Capacity",
+      "strand": "Mass & Volume",
+      "sub_strand": "Kilograms, Litres & Balcony Soil Density",
+      "printable_pack_title": "Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Measurement: Mass, Balance Scales & Capacity.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 8 Numeracy: Measurement: Mass, Balance Scales",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Measurement: Mass, Balance Scales?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Measurement: Mass, Balance Scales with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #8.1 - Measurement: Mass, Balance Scales",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 8 Science: Kilograms, Litres & Balcony Soil Density",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Kilograms, Litres & Balcony Soil Density using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Kilograms, Litres & Balcony Soil Density and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #8.2 - Kilograms, Litres & Balcony Soil Density Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 8 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #8.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 8 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #8.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 8 Agri-Tech: Capacity",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Capacity.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #8.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Time, Clocks & Weather Observation",
+      "strand": "Time & Meteorology",
+      "sub_strand": "12h/24h Formats, Rain Gauges & Anemometers",
+      "printable_pack_title": "Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Time, Clocks & Weather Observation.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 9 Numeracy: Time, Clocks",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Time, Clocks?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Time, Clocks with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #9.1 - Time, Clocks",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 9 Science: 12h/24h Formats, Rain Gauges & Anemometers",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore 12h/24h Formats, Rain Gauges & Anemometers using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of 12h/24h Formats, Rain Gauges & Anemometers and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #9.2 - 12h/24h Formats, Rain Gauges & Anemometers Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 9 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #9.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 9 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #9.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 9 Agri-Tech: Weather Observation",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Weather Observation.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #9.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Kenyan Currency, Profit & Market Trading",
+      "strand": "Financial Literacy",
+      "sub_strand": "KES Notes, Simple Ledger & Market Practicals",
+      "printable_pack_title": "Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Kenyan Currency, Profit & Market Trading.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 10 Numeracy: Kenyan Currency, Profit",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Kenyan Currency, Profit?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Kenyan Currency, Profit with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #10.1 - Kenyan Currency, Profit",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 10 Science: KES Notes, Simple Ledger & Market Practicals",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore KES Notes, Simple Ledger & Market Practicals using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of KES Notes, Simple Ledger & Market Practicals and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #10.2 - KES Notes, Simple Ledger & Market Practicals Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 10 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #10.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 10 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #10.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 10 Agri-Tech: Market Trading",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Market Trading.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #10.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Data Handling, Tallies & Sound Energy",
+      "strand": "Statistics & Physics",
+      "sub_strand": "Bar Graphs, Vibrations & Musical Instruments",
+      "printable_pack_title": "Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Data Handling, Tallies & Sound Energy.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 11 Numeracy: Data Handling, Tallies",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Data Handling, Tallies?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Data Handling, Tallies with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #11.1 - Data Handling, Tallies",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 11 Science: Bar Graphs, Vibrations & Musical Instruments",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Bar Graphs, Vibrations & Musical Instruments using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Bar Graphs, Vibrations & Musical Instruments and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #11.2 - Bar Graphs, Vibrations & Musical Instruments Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 11 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #11.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 11 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #11.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 11 Agri-Tech: Sound Energy",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Sound Energy.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #11.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Term End Exhibition of Mastery & Capstone",
+      "strand": "Culmination & Portfolio",
+      "sub_strand": "Public Project Defense & Transcript Certification",
+      "printable_pack_title": "Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Demonstrate core conceptual understanding of Term End Exhibition of Mastery & Capstone.",
+        "Apply knowledge to hands-on problem solving using everyday Kenyan household materials.",
+        "Record observations in learner journal conforming to KNEC CBA Level 1-4 expectations."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 12 Numeracy: Term End Exhibition of Mastery",
+          "parent_script": "Ask: 'Jambo! Look around our living room. Can you find 3 objects that demonstrate today\\'s math concept of Term End Exhibition of Mastery?'",
+          "learning_objective": "Learner correctly applies calculation techniques for Term End Exhibition of Mastery with 90%+ accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Ruler",
+            "Pencil",
+            "Paper counters / dry maize seeds"
+          ],
+          "step_by_step_activity": "1. Warm up with 5 rapid mental math prompts.\n2. Work through the 3 guided examples on page 3 of the printable pack.\n3. Solve the 4 independent practical challenges.",
+          "worksheet_name": "Worksheet #12.1 - Term End Exhibition of Mastery",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Science & Technology",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 12 Science: Public Project Defense & Transcript Certification",
+          "parent_script": "Say: 'Scientists don\\'t just read books; they investigate. Today we will explore Public Project Defense & Transcript Certification using items from our kitchen!'",
+          "learning_objective": "Learner identifies key scientific principles of Public Project Defense & Transcript Certification and explains real-world implications.",
+          "local_materials": [
+            "Clear glass/jar",
+            "Water",
+            "Kitchen salt or food coloring",
+            "Notebook"
+          ],
+          "step_by_step_activity": "1. Formulate a hypothesis before starting.\n2. Follow safety guidelines and set up the apparatus.\n3. Log before and after changes in table format.",
+          "worksheet_name": "Worksheet #12.2 - Public Project Defense & Transcript Certification Lab Observation",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "English Literacy & Syntax",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Week 12 English: Reading Comprehension & Sentence Mechanics",
+          "parent_script": "Say: 'Let\\'s read today\\'s passage together. Pay attention to expression, full stops, and dialogue quotation marks.'",
+          "learning_objective": "Learner reads at 110+ words per minute with proper punctuation inflection and answers 5 inferential comprehension questions.",
+          "local_materials": [
+            "Cambridge Primary Reader / KICD Anthology",
+            "Dictionary",
+            "Highlighter"
+          ],
+          "step_by_step_activity": "1. Read passage aloud.\n2. Circle 3 new vocabulary terms and look up definitions.\n3. Write a 4-sentence summary in your own words.",
+          "worksheet_name": "Worksheet #12.3 - Reading Passage & Vocabulary",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 4,
+          "subject": "Kiswahili Lugha na Insha",
+          "time_slot": "11:30 AM - 12:15 PM",
+          "duration_minutes": 45,
+          "topic": "Wiki 12 Kiswahili: Sarufi, Ngeli na Utunzi",
+          "parent_script": "Sema: 'Leo tutaangazia matumizi sahihi ya maneno na upatanisho wa kisarufi katika ngeli yetu ya wiki hii.'",
+          "learning_objective": "Mwanafunzi atunge sentensi tano (5) sahihi zenye upatanisho wa kisarufi na maana kamili.",
+          "local_materials": [
+            "Daftari ya Kiswahili",
+            "Kamusi ya Kiswahili Sanifu",
+            "Kalamu"
+          ],
+          "step_by_step_activity": "1. Soma mifano kwenye karatasi ya kazi.\n2. Tambua viambishi awali na viambishi tamati.\n3. Andika kifungu kifupi cha maneno 50.",
+          "worksheet_name": "Kazi #12.4 - Mazoezi ya Lugha na Sarufi",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 5,
+          "subject": "Agriculture & Nutrition Lab",
+          "time_slot": "01:30 PM - 02:30 PM",
+          "duration_minutes": 60,
+          "topic": "Week 12 Agri-Tech: Capstone",
+          "parent_script": "Say: 'Time to get our hands dirty! Kenya is an agricultural powerhouse, and our balcony/backyard is our living laboratory.'",
+          "learning_objective": "Learner implements hands-on agriculture or nutrition technique for Capstone.",
+          "local_materials": [
+            "Soil sample / seedling container",
+            "Measuring tape",
+            "Watering cup",
+            "Camera/Phone for portfolio"
+          ],
+          "step_by_step_activity": "1. Inspect garden or kitchen pantry.\n2. Carry out the practical step according to CBC safety standards.\n3. Take photo evidence for the Digital Exhibition of Mastery.",
+          "worksheet_name": "Worksheet #12.5 - Practical Project Evidence Sheet",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    }
+  ]
+}

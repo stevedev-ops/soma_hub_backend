@@ -1,0 +1,61 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "SomaHome Curriculum Package Ingestion Schema",
+  "description": "Standardized schema for importing national or international curricula into SomaHome Kenya",
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "Practical, value-driven, KICD-aligned learning for Kenyan families",
+    "description": "Official curriculum framework approved by the Kenya Institute of Curriculum Development (KICD)."
+  },
+  "term_package": {
+    "grade_level": "Grade 4",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 4 CBC - Term 1 Turnkey Homeschool Package",
+    "subtitle": "KICD Standards: Mathematics, Science, English, Kiswahili, Agriculture",
+    "price_kes": 6500.0,
+    "badge": "Official KICD Standard",
+    "features": [
+      "12 Complete Weekly Modules",
+      "60 Daily Zero-Prep Lesson Guides with Parent Scripts",
+      "Weekly 12-Page Printable Packs (PDF)",
+      "KNEC CBA Level 1-4 Performance Rubrics",
+      "Kitchen Science & Balcony Agriculture Labs"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Numbers up to 10,000 & Living Things",
+      "strand": "Numbers & Classification",
+      "sub_strand": "Place Value & Plant Forms",
+      "printable_pack_title": "Week 1 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Read and write numbers up to 10,000 in symbols and words.",
+        "Identify external structures of flowering plants in the immediate environment."
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics & Numeracy",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Place Value of Digits up to Thousands",
+          "parent_script": "Ask: 'Look at the car registration number outside. Which digit is in the thousands place?'",
+          "learning_objective": "Learner identifies thousands, hundreds, tens, and ones in 4-digit numbers with 95% accuracy.",
+          "local_materials": [
+            "Math exercise book",
+            "Pencil and ruler",
+            "Dry maize seeds or bottle tops for counting"
+          ],
+          "step_by_step_activity": "1. Write three 4-digit numbers on paper.\n2. Ask child to make place value columns (Th, H, T, O).\n3. Group maize seeds into bundles of tens and hundreds.",
+          "worksheet_name": "Worksheet #1.1 - Place Value Grid",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

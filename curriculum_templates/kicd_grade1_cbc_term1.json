@@ -1,0 +1,819 @@
+{
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "Practical, value-driven, KICD-aligned learning for Kenyan families",
+    "description": "Approved by KICD for Lower Primary Education (Grades 1-3)."
+  },
+  "term_package": {
+    "grade_level": "Grade 1",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 1 CBC - Term 1 Master Homeschool Box",
+    "subtitle": "KICD Syllabi Aligned: Literacy, Kiswahili, Mathematics, Environmental & Creative Arts",
+    "price_kes": 6000.0,
+    "badge": "KICD Lower Primary Official",
+    "features": [
+      "12 Complete Weekly Modules for Grade 1 Readers & Mathematicians",
+      "KICD Phonics & Kiswahili Silabi Progression Guides",
+      "Numbers to 100, Bundling Sticks & Addition Foundations",
+      "Parent Scripting for Zero-Prep Daily Homeschooling"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Numbers to 20 & Family Dynamics",
+      "strand": "Numbers & Family Community",
+      "sub_strand": "Counting 1-20 & Roles of Family Members",
+      "printable_pack_title": "Grade 1 Week 1 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Count objects 1 to 20 forward and backward",
+        "Recognize and write numerals 1-10",
+        "Describe roles of family members"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Counting Objects up to 20 with Counting Sticks",
+          "parent_script": "Hold up a bundle of 10 matchsticks: How many do we have in this bundle? Let us add 5 more!",
+          "learning_objective": "Count and group concrete objects up to 20 without skipping.",
+          "local_materials": [
+            "Sticks/straws",
+            "Rubber bands",
+            "Flashcards 1-20"
+          ],
+          "step_by_step_activity": "1. Count 10 sticks and bundle.\n2. Add single sticks to make 11-19.\n3. Match with numeral flashcards.",
+          "worksheet_name": "Worksheet #1.1 (Count & Match 1-20)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Phonics: Initial Sounds /s/, /a/, /t/, /p/",
+          "parent_script": "Make the snake sound /ssss/ and ask: What fruit starts with /a/? Yes, an apple!",
+          "learning_objective": "Pronounce initial phonetic sounds and identify corresponding letters.",
+          "local_materials": [
+            "Phonics cards",
+            "Sand tray"
+          ],
+          "step_by_step_activity": "1. Trace letters s, a, t, p in sand.\n2. Blend simple CVC words: sat, pat, tap.\n3. Read 3 sentences aloud.",
+          "worksheet_name": "Worksheet #1.2 (Sound Blending & Tracing)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Environmental Activities",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Home Environment & Washing Kitchen Utensils",
+          "parent_script": "Look around our kitchen: How do we help keep our plates and cups clean after meals?",
+          "learning_objective": "Identify safe kitchen cleaning procedures and safety with breakables.",
+          "local_materials": [
+            "Plastic cup",
+            "Sponge",
+            "Dish soap"
+          ],
+          "step_by_step_activity": "1. Practice washing plastic cups safely.\n2. Rinse in clean water and place on rack.\n3. Draw clean utensils in workbook.",
+          "worksheet_name": "Worksheet #1.3 (Home Chores Rubric)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Mathematics Worksheet #2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "English Literacy Worksheet #2.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #2.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Mathematics Worksheet #3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "English Literacy Worksheet #3.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #3.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Mathematics Worksheet #4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "English Literacy Worksheet #4.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #4.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Mathematics Worksheet #5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "English Literacy Worksheet #5.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #5.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Mathematics Worksheet #6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "English Literacy Worksheet #6.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #6.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Mathematics Worksheet #7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "English Literacy Worksheet #7.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #7.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Mathematics Worksheet #8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "English Literacy Worksheet #8.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #8.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Mathematics Worksheet #9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "English Literacy Worksheet #9.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #9.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Mathematics Worksheet #10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "English Literacy Worksheet #10.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #10.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Mathematics Worksheet #11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "English Literacy Worksheet #11.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #11.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Grade 1 Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Mathematics",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Mathematics.",
+          "local_materials": [
+            "Counters",
+            "Ruler",
+            "Math book"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Mathematics Worksheet #12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "English Literacy",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "English Literacy - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 English Literacy.",
+          "local_materials": [
+            "Reader book",
+            "Phonics chart"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "English Literacy Worksheet #12.2",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Kiswahili & Mazingira",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Kiswahili & Mazingira - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Kiswahili & Mazingira.",
+          "local_materials": [
+            "Daftari",
+            "Rangi za penseli"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "Kiswahili & Mazingira Worksheet #12.3",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        }
+      ]
+    }
+  ]
+}

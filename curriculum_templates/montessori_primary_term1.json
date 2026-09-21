@@ -1,0 +1,841 @@
+{
+  "curriculum": {
+    "code": "MONTESSORI",
+    "name": "Montessori & Practical Life Inquiry",
+    "tagline": "Child-centered, hands-on self-discovery and practical life mastery",
+    "description": "Rooted in Maria Montessori pedagogical principles with prepared environments, sensorial exploration, and practical life independence."
+  },
+  "term_package": {
+    "grade_level": "Primary (Ages 3-6 / Casa)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Montessori Primary - Term 1 Prepared Environment Box",
+    "subtitle": "Practical Life, Sensorial, Language Phonics, Golden Beads Math & Cultural Studies",
+    "price_kes": 6500.0,
+    "badge": "Authentic Montessori Framework",
+    "features": [
+      "12 Prepared Environment Weekly Guides with Material Recipes",
+      "Practical Life Pouring, Spooning, Sweeping & Buttoning Frames",
+      "Sensorial Pink Tower, Broad Stair & Color Tablets at Home",
+      "Golden Beads Decimal System & Sandpaper Letters"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Grace, Courtesy & Pouring Exercises",
+      "strand": "Practical Life & Sensorial Foundation",
+      "sub_strand": "Dry Pouring, Walking the Line & Sandpaper Letters /m/, /s/",
+      "printable_pack_title": "Montessori Primary Week 1 Printable Pack (PDF)",
+      "page_count": 10,
+      "learning_outcomes": [
+        "Master dry pouring without spilling",
+        "Walk the line with balanced posture",
+        "Trace sandpaper letters using two fingers"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Montessori Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 45,
+          "topic": "Dry Pouring from Pitcher to Pitcher",
+          "parent_script": "Observe in quiet concentration: Watch how I hold the pitcher by the handle and support the base.",
+          "learning_objective": "Pour dried beans from one small glass pitcher into another without spilling a single bean.",
+          "local_materials": [
+            "Two glass pitchers",
+            "Tray",
+            "Dried beans",
+            "Sponge"
+          ],
+          "step_by_step_activity": "1. Present dry pouring in 3 distinct steps in silence.\n2. Invite child to repeat the exercise independently.\n3. Clean up tray if any beans fall.",
+          "worksheet_name": "Practical Life Progress Chart (Pouring)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Materials",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 45,
+          "topic": "Visual Discrimination of Size: DIY Stacking Bowls",
+          "parent_script": "Feel the edges of each block. Which one is thickest? Which one is thinnest?",
+          "learning_objective": "Gradate 5 objects in sequence from thickest to thinnest.",
+          "local_materials": [
+            "5 different nesting bowls",
+            "Work rug"
+          ],
+          "step_by_step_activity": "1. Unroll work rug with two hands.\n2. Arrange nesting bowls randomly, then sort in order.\n3. Verify sequence with finger test.",
+          "worksheet_name": "Sensorial Dimension Matrix",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Language: Sandpaper Letters",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 45,
+          "topic": "Three-Period Lesson: Sounds /m/ and /a/",
+          "parent_script": "Period 1: This is /m/. Period 2: Show me /m/. Period 3: What is this?",
+          "learning_objective": "Trace sandpaper letter in the direction of writing while vocalizing its phonetic sound.",
+          "local_materials": [
+            "Sandpaper letters m and a",
+            "Cornmeal tray"
+          ],
+          "step_by_step_activity": "1. Trace letter with index and middle finger.\n2. Speak the pure phonetic sound.\n3. Trace the same sound in the cornmeal tray.",
+          "worksheet_name": "Phonetic Sound Card Tracing",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Practical Life Worksheet #2.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Practical Life Worksheet #3.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Practical Life Worksheet #4.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Practical Life Worksheet #5.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Practical Life Worksheet #6.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Practical Life Worksheet #7.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Practical Life Worksheet #8.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Practical Life Worksheet #9.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Practical Life Worksheet #10.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Practical Life Worksheet #11.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Primary (Ages 3-6 / Casa) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Practical Life",
+          "time_slot": "08:30 AM - 09:15 AM",
+          "duration_minutes": 40,
+          "topic": "Practical Life - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Practical Life.",
+          "local_materials": [
+            "Tray",
+            "Pitchers",
+            "Beans",
+            "Tongs"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Practical Life Worksheet #12.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Sensorial Exploration",
+          "time_slot": "09:30 AM - 10:15 AM",
+          "duration_minutes": 40,
+          "topic": "Sensorial Exploration - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Sensorial Exploration.",
+          "local_materials": [
+            "Work rug",
+            "Stacking items",
+            "Color swatches"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Sensorial Exploration Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 3,
+          "subject": "Montessori Language & Math",
+          "time_slot": "10:30 AM - 11:15 AM",
+          "duration_minutes": 40,
+          "topic": "Montessori Language & Math - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Montessori Language & Math.",
+          "local_materials": [
+            "Sandpaper cards",
+            "Bead counters"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "Montessori Language & Math Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": true
+        }
+      ]
+    }
+  ]
+}

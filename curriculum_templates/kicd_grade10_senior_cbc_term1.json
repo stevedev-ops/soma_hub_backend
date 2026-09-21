@@ -1,0 +1,804 @@
+{
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "KICD Aligned",
+    "description": "National curriculum approved by KICD."
+  },
+  "term_package": {
+    "grade_level": "Grade 10 (Senior Secondary)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 10 Senior CBC - Term 1 STEM & Arts Box",
+    "subtitle": "KICD Senior School Pathways: Pure Sciences (Physics/Chemistry/Bio), Advanced Math, Humanities",
+    "price_kes": 9500.0,
+    "badge": "KICD Senior School Pathway",
+    "features": [
+      "12 Advanced Senior School Inquiry Modules",
+      "Specialized STEM Pathway Practicals",
+      "KNEC CBA Senior School Assessment Framework"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Term 1 Week 1: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 1 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 1 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 1",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#1.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#1.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 1 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 1 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#1.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Term 1 Week 2: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 2 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 2",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#2.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 2 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 2 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Term 1 Week 3: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 3 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 3",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#3.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 3 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 3 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Term 1 Week 4: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 4 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 4",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#4.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 4 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 4 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Term 1 Week 5: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 5 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 5",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#5.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 5 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 5 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Term 1 Week 6: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 6 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 6",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#6.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 6 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 6 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Term 1 Week 7: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 7 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 7",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#7.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 7 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 7 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Term 1 Week 8: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 8 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 8",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#8.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 8 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 8 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Term 1 Week 9: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 9 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 9",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#9.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 9 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 9 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Term 1 Week 10: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 10 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 10",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#10.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 10 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 10 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Term 1 Week 11: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 11 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 11",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#11.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 11 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 11 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Term 1 Week 12: Advanced Competency & Exploration",
+      "strand": "Term 1 Core Applied Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Grade 10 (Senior Secondary) Term 1 Week 12 Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master Term 1 core competencies for week 12",
+        "Complete hands-on practical log"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Advanced Mathematics",
+          "time_slot": "08:30 AM - 09:30 AM",
+          "duration_minutes": 45,
+          "topic": "Advanced Mathematics - Term 1 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Advanced Mathematics.",
+          "local_materials": [
+            "Scientific calculator",
+            "Geometry set"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Advanced Mathematics Worksheet T1#12.1",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        },
+        {
+          "day_number": 2,
+          "subject": "Pure Sciences (Physics/Chem)",
+          "time_slot": "09:45 AM - 10:45 AM",
+          "duration_minutes": 45,
+          "topic": "Pure Sciences (Physics/Chem) - Term 1 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Pure Sciences (Physics/Chem).",
+          "local_materials": [
+            "Titration / Mechanics kit",
+            "Lab coat"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Pure Sciences (Physics/Chem) Worksheet T1#12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Humanities & Applied Tech",
+          "time_slot": "11:00 AM - 12:00 PM",
+          "duration_minutes": 45,
+          "topic": "Humanities & Applied Tech - Term 1 Week 12 Mastery Module",
+          "parent_script": "Introduce Term 1 Unit 12 with guiding questions to reinforce foundational understanding.",
+          "learning_objective": "Learner demonstrates conceptual grasp and problem-solving for Term 1 Humanities & Applied Tech.",
+          "local_materials": [
+            "Atlas",
+            "Coding editor"
+          ],
+          "step_by_step_activity": "1. Guided conceptual analysis.\n2. Work through 3 stepped exercises.\n3. Formative self-reflection.",
+          "worksheet_name": "Humanities & Applied Tech Worksheet T1#12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}

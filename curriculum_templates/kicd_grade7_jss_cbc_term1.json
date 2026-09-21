@@ -1,0 +1,843 @@
+{
+  "curriculum": {
+    "code": "CBC",
+    "name": "Kenya Competency-Based Curriculum (CBC)",
+    "tagline": "Practical, value-driven, KICD-aligned learning for Kenyan families",
+    "description": "Approved by KICD for Junior Secondary School (JSS Grades 7-9)."
+  },
+  "term_package": {
+    "grade_level": "Grade 7 (JSS)",
+    "term": 1,
+    "academic_year": 2026,
+    "title": "Grade 7 JSS CBC - Term 1 Junior Secondary Box",
+    "subtitle": "KICD JSS Aligned: Integrated Science, Pre-Technical Studies, Mathematics, Social Studies, English, Agriculture",
+    "price_kes": 8000.0,
+    "badge": "Official KICD Junior Secondary",
+    "features": [
+      "12 Comprehensive JSS Inquiry Modules Aligned with KNEC CBA",
+      "Pre-Technical Studies, Electrical Safety & Hand Tool Mastery",
+      "Integrated Science Laboratory Practicals using Household Reagents",
+      "Algebra, Statistics & Coordinate Geometry Frameworks"
+    ]
+  },
+  "weeks": [
+    {
+      "week_number": 1,
+      "theme_title": "Scientific Investigation & Pre-Technical Foundations",
+      "strand": "Scientific Inquiry & Materials",
+      "sub_strand": "Laboratory Safety & Properties of Metals/Non-Metals",
+      "printable_pack_title": "Grade 7 JSS Week 1 Printable Pack (PDF)",
+      "page_count": 14,
+      "learning_outcomes": [
+        "Demonstrate laboratory safety precautions in a home lab",
+        "Distinguish physical properties of metals and non-metals",
+        "Calculate measurements accurately"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 50,
+          "topic": "Laboratory Safety Protocols & Hazardous Symbols",
+          "parent_script": "Junior secondary science requires rigorous inquiry. Let us examine common danger hazard symbols found on household items.",
+          "learning_objective": "Identify corrosive, flammable, toxic, and biohazard signs and explain home emergency protocols.",
+          "local_materials": [
+            "Hazard labels",
+            "Goggles"
+          ],
+          "step_by_step_activity": "1. Inspect chemical labels for hazard warning symbols.\n2. Draft a Home Lab Safety Protocol Charter.\n3. Map emergency exits and first aid kit placement.",
+          "worksheet_name": "Worksheet #1.1 (Lab Safety & Symbol Identification)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 50,
+          "topic": "Identification and Maintenance of Hand Tools",
+          "parent_script": "Tools make human work efficient. Today we explore measuring, cutting, and driving tools in our workshop.",
+          "learning_objective": "Classify tools into measuring, marking, cutting, and holding categories and describe rust prevention.",
+          "local_materials": [
+            "Tape measure",
+            "Hacksaw blade",
+            "Pliers",
+            "Screwdriver",
+            "Oiled rag"
+          ],
+          "step_by_step_activity": "1. Categorize 5 household hand tools.\n2. Measure dimensions of a timber piece.\n3. Clean and oil metal hinges to prevent corrosion.",
+          "worksheet_name": "Worksheet #1.2 (Hand Tool Taxonomy & Safety)",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 50,
+          "topic": "Integers, Prime Factorization & GCD/LCM",
+          "parent_script": "We apply prime numbers to solve real-world scheduling and grouping challenges.",
+          "learning_objective": "Find LCM and GCD of 3-digit numbers using repeated division and prime factor trees.",
+          "local_materials": [
+            "Graph book",
+            "Calculator",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Express 144, 180, and 240 as products of prime factors.\n2. Calculate LCM for traffic light synchronizations.\n3. Solve 5 application problems.",
+          "worksheet_name": "Worksheet #1.3 (Number Theory & LCM Applications)",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 2,
+      "theme_title": "Week 2: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 2 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 2 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 2",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.1.",
+          "worksheet_name": "Integrated Science Worksheet #2.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #2.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 2 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 2 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 2 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #2.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #2.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 3,
+      "theme_title": "Week 3: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 3 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 3 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 3",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.1.",
+          "worksheet_name": "Integrated Science Worksheet #3.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #3.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 3 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 3 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 3 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #3.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #3.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 4,
+      "theme_title": "Week 4: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 4 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 4 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 4",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.1.",
+          "worksheet_name": "Integrated Science Worksheet #4.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #4.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 4 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 4 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 4 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #4.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #4.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 5,
+      "theme_title": "Week 5: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 5 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 5 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 5",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.1.",
+          "worksheet_name": "Integrated Science Worksheet #5.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #5.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 5 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 5 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 5 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #5.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #5.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 6,
+      "theme_title": "Week 6: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 6 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 6 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 6",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.1.",
+          "worksheet_name": "Integrated Science Worksheet #6.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #6.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 6 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 6 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 6 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #6.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #6.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 7,
+      "theme_title": "Week 7: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 7 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 7 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 7",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.1.",
+          "worksheet_name": "Integrated Science Worksheet #7.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #7.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 7 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 7 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 7 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #7.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #7.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 8,
+      "theme_title": "Week 8: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 8 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 8 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 8",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.1.",
+          "worksheet_name": "Integrated Science Worksheet #8.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #8.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 8 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 8 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 8 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #8.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #8.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 9,
+      "theme_title": "Week 9: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 9 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 9 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 9",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.1.",
+          "worksheet_name": "Integrated Science Worksheet #9.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #9.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 9 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 9 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 9 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #9.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #9.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 10,
+      "theme_title": "Week 10: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 10 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 10 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 10",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.1.",
+          "worksheet_name": "Integrated Science Worksheet #10.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #10.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 10 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 10 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 10 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #10.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #10.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 11,
+      "theme_title": "Week 11: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 11 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 11 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 11",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.1.",
+          "worksheet_name": "Integrated Science Worksheet #11.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #11.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 11 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 11 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 11 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #11.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #11.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    },
+    {
+      "week_number": 12,
+      "theme_title": "Week 12: Core Competencies & Discovery Module",
+      "strand": "Integrated Academic & Practical Strands",
+      "sub_strand": "Unit 12 Milestones & Rubrics",
+      "printable_pack_title": "Grade 7 (JSS) Week 12 Consolidated Printable Pack (PDF)",
+      "page_count": 12,
+      "learning_outcomes": [
+        "Master core competencies for week 12",
+        "Apply concepts in household projects"
+      ],
+      "lessons": [
+        {
+          "day_number": 1,
+          "subject": "Integrated Science",
+          "time_slot": "08:30 AM - 09:20 AM",
+          "duration_minutes": 40,
+          "topic": "Integrated Science - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Integrated Science.",
+          "local_materials": [
+            "Science notebook",
+            "Lab kit",
+            "Magnifier"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.1.",
+          "worksheet_name": "Integrated Science Worksheet #12.1",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 2,
+          "subject": "Pre-Technical Studies",
+          "time_slot": "09:30 AM - 10:20 AM",
+          "duration_minutes": 40,
+          "topic": "Pre-Technical Studies - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Pre-Technical Studies.",
+          "local_materials": [
+            "Hand tools",
+            "Safety gloves",
+            "Timber sample"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.2.",
+          "worksheet_name": "Pre-Technical Studies Worksheet #12.2",
+          "is_lab_practical": true,
+          "has_photo_submission": true
+        },
+        {
+          "day_number": 3,
+          "subject": "Mathematics & Social Studies",
+          "time_slot": "10:40 AM - 11:30 AM",
+          "duration_minutes": 40,
+          "topic": "Mathematics & Social Studies - Unit 12 Concepts & Mastery",
+          "parent_script": "Review previous unit discoveries and guide your learner through Unit 12 step-by-step.",
+          "learning_objective": "Learner demonstrates conceptual understanding of Unit 12 Mathematics & Social Studies.",
+          "local_materials": [
+            "Scientific calculator",
+            "Atlas",
+            "Ruler"
+          ],
+          "step_by_step_activity": "1. Guided concept discussion.\n2. Worked examples.\n3. Complete worksheet #12.3.",
+          "worksheet_name": "Mathematics & Social Studies Worksheet #12.3",
+          "is_lab_practical": false,
+          "has_photo_submission": false
+        }
+      ]
+    }
+  ]
+}
