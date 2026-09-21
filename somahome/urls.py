@@ -1,5 +1,6 @@
 from django.contrib import admin
 from django.urls import path, include
+from django.http import JsonResponse
 from rest_framework.routers import DefaultRouter
 
 from apps.curriculum.views import (
@@ -16,6 +17,20 @@ from apps.marketplace.views import TutorViewSet, LearningPodViewSet
 from apps.payments.views import initiate_stk_push, confirm_mpesa_pin
 from apps.core.views import login_view, register_view, get_current_user
 
+def health_check(request):
+    return JsonResponse({
+        'status': 'healthy',
+        'service': 'SomaHome Kenya Homeschool API',
+        'version': '2.0.0',
+        'endpoints': {
+            'curriculum': '/api/curriculum/trees/',
+            'frameworks': '/api/curriculum/frameworks/',
+            'daily_os': '/api/daily/today/',
+            'auth': '/api/auth/login/',
+            'payments': '/api/payments/stk-push/'
+        }
+    })
+
 router = DefaultRouter()
 router.register(r'curriculum/trees', CurriculumViewSet, basename='curriculum')
 router.register(r'curriculum/packages', TermPackageViewSet, basename='packages')
@@ -25,6 +40,8 @@ router.register(r'marketplace/tutors', TutorViewSet, basename='tutors')
 router.register(r'marketplace/pods', LearningPodViewSet, basename='pods')
 
 urlpatterns = [
+    path('', health_check, name='root_health'),
+    path('api/health/', health_check, name='api_health'),
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
     
