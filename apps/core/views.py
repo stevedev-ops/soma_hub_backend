@@ -9,10 +9,6 @@ from apps.marketplace.models import TutorProfile
 @api_view(['POST'])
 @permission_classes([AllowAny])
 def register_view(request):
-    """
-    Self-Registration endpoint for Parents, Tutors, and Creators.
-    Creates User and corresponding Student/TutorProfile in the database.
-    """
     data = request.data
     full_name = data.get('fullName', '').strip()
     phone = data.get('phone', '').strip()
@@ -23,7 +19,6 @@ def register_view(request):
 
     username = phone if phone else full_name.lower().replace(' ', '_')
 
-    # Check existing user
     if User.objects.filter(username=username).exists():
         return Response({'error': f"An account with username/phone '{username}' already exists. Please sign in."}, status=status.HTTP_400_BAD_REQUEST)
 
@@ -74,7 +69,6 @@ def register_view(request):
                 'avatar': student.avatar_url
             })
 
-    # If tutor, create TutorProfile
     if user.role == 'TUTOR':
         TutorProfile.objects.get_or_create(
             full_name=full_name or user.username,
@@ -114,7 +108,6 @@ def login_view(request):
 
     user = authenticate(username=username, password=password)
     if not user:
-        # Check by phone number
         by_phone = User.objects.filter(phone_number=username).first()
         if by_phone and by_phone.check_password(password):
             user = by_phone
@@ -123,7 +116,7 @@ def login_view(request):
         return Response({'error': 'Invalid credentials. Please verify your phone/username and password.'}, status=status.HTTP_401_UNAUTHORIZED)
 
     children_data = []
-    if user.role in ['PARENT', 'ADMIN']:
+    if user.role in ['PARENT', 'ADMIN', 'STUDENT']:
         children = Student.objects.filter(parent=user)
         children_data = [{
             'id': c.id,
@@ -146,6 +139,51 @@ def login_view(request):
             'children': children_data
         }
     })
+
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def add_child_view(request):
+    data = request.data
+    user_id = data.get('parentId') or data.get('userId')
+    phone = data.get('phone')
+
+    parent = None
+    if user_id:
+        parent = User.objects.filter(id=user_id).first()
+    if not parent and phone:
+        parent = User.objects.filter(phone_number=phone).first()
+    if not parent and request.user.is_authenticated:
+        parent = request.user
+    if not parent:
+        parent = User.objects.filter(role='PARENT').first()
+
+    child_name = data.get('name', '').strip() or data.get('childName', '').strip()
+    if not child_name:
+        return Response({'error': 'Child name is required.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    c_parts = child_name.split(' ', 1)
+    c_first = c_parts[0]
+    c_last = c_parts[1] if len(c_parts) > 1 else (parent.last_name if parent else '')
+
+    student = Student.objects.create(
+        parent=parent,
+        first_name=c_first,
+        last_name=c_last,
+        grade_level=data.get('grade', 'Grade 4 (CBC)'),
+        curriculum_code=data.get('curriculum', 'CBC'),
+        avatar_url=data.get('avatar') or 'https://images.unsplash.com/photo-1543332164-6e82f355badc?w=120'
+    )
+
+    return Response({
+        'success': True,
+        'child': {
+            'id': student.id,
+            'name': f"{student.first_name} {student.last_name}".strip(),
+            'grade': student.grade_level,
+            'curriculum': student.curriculum_code,
+            'avatar': student.avatar_url
+        }
+    }, status=status.HTTP_201_CREATED)
 
 @api_view(['GET'])
 def get_current_user(request):

@@ -15,7 +15,7 @@ from apps.tracker.views import (
 )
 from apps.marketplace.views import TutorViewSet, LearningPodViewSet
 from apps.payments.views import initiate_stk_push, confirm_mpesa_pin
-from apps.core.views import login_view, register_view, get_current_user
+from apps.core.views import login_view, register_view, get_current_user, add_child_view
 
 def health_check(request):
     return JsonResponse({
@@ -49,6 +49,7 @@ urlpatterns = [
     path('api/auth/register/', register_view, name='register'),
     path('api/auth/login/', login_view, name='login'),
     path('api/auth/me/', get_current_user, name='current_user'),
+    path('api/parent/add-child/', add_child_view, name='add_child'),
 
     # Pluggable Curriculum Frameworks & Creator APIs
     path('api/curriculum/frameworks/', frameworks_api, name='frameworks_api'),
