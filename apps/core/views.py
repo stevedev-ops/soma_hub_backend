@@ -59,7 +59,7 @@ def register_view(request):
                 first_name=c_first,
                 last_name=c_last,
                 username=c_username,
-                pin_code='1234',
+                pin_code=str(data.get('childPin') or data.get('pin') or '1234').strip(),
                 grade_level=child_grade,
                 curriculum_code=child_curriculum,
                 avatar_url='https://images.unsplash.com/photo-1543332164-6e82f355badc?w=120'
