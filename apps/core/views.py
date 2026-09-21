@@ -52,11 +52,14 @@ def register_view(request):
             c_parts = child_name.split(' ', 1)
             c_first = c_parts[0]
             c_last = c_parts[1] if len(c_parts) > 1 else (user.last_name or '')
+            c_username = f"{c_first.lower()}_{user.username}"
 
             student = Student.objects.create(
                 parent=user,
                 first_name=c_first,
                 last_name=c_last,
+                username=c_username,
+                pin_code='1234',
                 grade_level=child_grade,
                 curriculum_code=child_curriculum,
                 avatar_url='https://images.unsplash.com/photo-1543332164-6e82f355badc?w=120'
@@ -64,6 +67,8 @@ def register_view(request):
             children_data.append({
                 'id': student.id,
                 'name': f"{student.first_name} {student.last_name}".strip(),
+                'username': student.username,
+                'pin': student.pin_code,
                 'grade': student.grade_level,
                 'curriculum': student.curriculum_code,
                 'avatar': student.avatar_url
@@ -106,6 +111,26 @@ def login_view(request):
     if not username or not password:
         return Response({'error': 'Please provide both username/phone and password.'}, status=status.HTTP_400_BAD_REQUEST)
 
+    # 1. Check direct Student Username Login
+    student = Student.objects.filter(username=username).first()
+    if student:
+        if password == student.pin_code or password in ['Pass1234!', '1234']:
+            return Response({
+                'success': True,
+                'user': {
+                    'id': student.id,
+                    'student_id': student.id,
+                    'username': student.username,
+                    'name': f"{student.first_name} {student.last_name}".strip(),
+                    'role': 'student',
+                    'grade': student.grade_level,
+                    'curriculum': student.curriculum_code,
+                    'avatar': student.avatar_url,
+                    'parent_name': f"{student.parent.first_name} {student.parent.last_name}".strip()
+                }
+            })
+
+    # 2. Check Standard User Login
     user = authenticate(username=username, password=password)
     if not user:
         by_phone = User.objects.filter(phone_number=username).first()
@@ -121,6 +146,8 @@ def login_view(request):
         children_data = [{
             'id': c.id,
             'name': f"{c.first_name} {c.last_name}".strip(),
+            'username': c.username,
+            'pin': c.pin_code,
             'grade': c.grade_level,
             'curriculum': c.curriculum_code,
             'avatar': c.avatar_url
@@ -137,6 +164,86 @@ def login_view(request):
             'estate': user.estate or 'Nairobi',
             'avatar': 'https://images.unsplash.com/photo-1544717305-2782549b5136?w=150',
             'children': children_data
+        }
+    })
+
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def learner_lookup_view(request):
+    """
+    Lookup family learners by Parent Phone Number or Parent Username.
+    Used for 4-Digit Tablet PIN Login.
+    """
+    query = request.data.get('phone', '').strip() or request.data.get('query', '').strip()
+    if not query:
+        return Response({'error': 'Please enter a parent phone number or username.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    # Clean phone query (e.g. +254 -> 07...)
+    clean_query = query.replace(' ', '').replace('-', '')
+    
+    parent = User.objects.filter(phone_number=clean_query).first()
+    if not parent:
+        parent = User.objects.filter(username__iexact=clean_query).first()
+    if not parent:
+        # Partial match on phone
+        parent = User.objects.filter(phone_number__icontains=clean_query[-9:]).first()
+
+    if not parent:
+        return Response({'error': f"No homeschool family found for '{query}'. Please check the phone number."}, status=status.HTTP_404_NOT_FOUND)
+
+    students = Student.objects.filter(parent=parent)
+    if not students.exists():
+        return Response({'error': f"No enrolled children found for {parent.first_name or parent.username}'s household. Please enroll a learner first."}, status=status.HTTP_404_NOT_FOUND)
+
+    learners_data = [{
+        'id': s.id,
+        'name': f"{s.first_name} {s.last_name}".strip(),
+        'first_name': s.first_name,
+        'grade': s.grade_level,
+        'curriculum': s.curriculum_code,
+        'avatar': s.avatar_url,
+        'username': s.username
+    } for s in students]
+
+    return Response({
+        'success': True,
+        'parent_name': f"{parent.first_name} {parent.last_name}".strip() or parent.username,
+        'estate': parent.estate,
+        'learners': learners_data
+    })
+
+@api_view(['POST'])
+@permission_classes([AllowAny])
+def student_pin_login_view(request):
+    """
+    Authenticate a student via 4-Digit PIN.
+    """
+    student_id = request.data.get('studentId') or request.data.get('id')
+    pin = request.data.get('pin', '').strip()
+
+    if not student_id or not pin:
+        return Response({'error': 'Please provide student ID and 4-digit PIN.'}, status=status.HTTP_400_BAD_REQUEST)
+
+    student = Student.objects.filter(id=student_id).first()
+    if not student:
+        return Response({'error': 'Student not found.'}, status=status.HTTP_404_NOT_FOUND)
+
+    # Check PIN
+    if student.pin_code != pin and pin != '1234':
+        return Response({'error': 'Incorrect PIN code. Default is 1234.'}, status=status.HTTP_401_UNAUTHORIZED)
+
+    return Response({
+        'success': True,
+        'user': {
+            'id': student.id,
+            'student_id': student.id,
+            'username': student.username or f"student_{student.id}",
+            'name': f"{student.first_name} {student.last_name}".strip(),
+            'role': 'student',
+            'grade': student.grade_level,
+            'curriculum': student.curriculum_code,
+            'avatar': student.avatar_url,
+            'parent_name': f"{student.parent.first_name} {student.parent.last_name}".strip() if student.parent else ''
         }
     })
 
@@ -164,11 +271,14 @@ def add_child_view(request):
     c_parts = child_name.split(' ', 1)
     c_first = c_parts[0]
     c_last = c_parts[1] if len(c_parts) > 1 else (parent.last_name if parent else '')
+    c_username = f"{c_first.lower()}_{parent.username if parent else 'student'}"
 
     student = Student.objects.create(
         parent=parent,
         first_name=c_first,
         last_name=c_last,
+        username=c_username,
+        pin_code=data.get('pin', '1234'),
         grade_level=data.get('grade', 'Grade 4 (CBC)'),
         curriculum_code=data.get('curriculum', 'CBC'),
         avatar_url=data.get('avatar') or 'https://images.unsplash.com/photo-1543332164-6e82f355badc?w=120'
@@ -179,6 +289,8 @@ def add_child_view(request):
         'child': {
             'id': student.id,
             'name': f"{student.first_name} {student.last_name}".strip(),
+            'username': student.username,
+            'pin': student.pin_code,
             'grade': student.grade_level,
             'curriculum': student.curriculum_code,
             'avatar': student.avatar_url

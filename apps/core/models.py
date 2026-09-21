@@ -21,6 +21,8 @@ class Student(models.Model):
     parent = models.ForeignKey(User, on_delete=models.CASCADE, related_name='students')
     first_name = models.CharField(max_length=50)
     last_name = models.CharField(max_length=50, blank=True, default='')
+    username = models.CharField(max_length=60, blank=True, default='')
+    pin_code = models.CharField(max_length=10, default='1234')
     date_of_birth = models.DateField(null=True, blank=True)
     grade_level = models.CharField(max_length=50, default='Grade 4')
     curriculum_code = models.CharField(max_length=20, default='CBC')

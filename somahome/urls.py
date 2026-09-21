@@ -15,7 +15,10 @@ from apps.tracker.views import (
 )
 from apps.marketplace.views import TutorViewSet, LearningPodViewSet
 from apps.payments.views import initiate_stk_push, confirm_mpesa_pin
-from apps.core.views import login_view, register_view, get_current_user, add_child_view
+from apps.core.views import (
+    login_view, register_view, get_current_user, add_child_view,
+    learner_lookup_view, student_pin_login_view
+)
 
 def health_check(request):
     return JsonResponse({
@@ -45,9 +48,11 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('api/', include(router.urls)),
     
-    # Auth & Self-Registration
+    # Auth & Self-Registration & Learner PIN Login
     path('api/auth/register/', register_view, name='register'),
     path('api/auth/login/', login_view, name='login'),
+    path('api/auth/learner-lookup/', learner_lookup_view, name='learner_lookup'),
+    path('api/auth/student-pin-login/', student_pin_login_view, name='student_pin_login'),
     path('api/auth/me/', get_current_user, name='current_user'),
     path('api/parent/add-child/', add_child_view, name='add_child'),
 
