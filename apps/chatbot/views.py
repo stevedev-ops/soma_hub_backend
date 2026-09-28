@@ -80,6 +80,7 @@ def chatbot_authenticated_view(request):
     user_email = request.data.get('user_email')
     user_name = request.data.get('user_name')
     user_role = request.data.get('user_role', 'PARENT')
+    children_list = request.data.get('children')
 
     if not message_text:
         return Response({'error': 'Message text is required'}, status=status.HTTP_400_BAD_REQUEST)
@@ -117,7 +118,7 @@ def chatbot_authenticated_view(request):
         if not student:
             student = Student(first_name="Liam", last_name="Kariuki", grade_level="Grade 4", curriculum_code="CBC")
 
-    bot_reply, metadata = generate_bot_response(message_text, user=user, student=student)
+    bot_reply, metadata = generate_bot_response(message_text, user=user, student=student, children=children_list)
     is_greeting = metadata.get('is_greeting', False) or is_trivial_greeting(message_text)
 
     if not is_greeting:
