@@ -32,6 +32,7 @@ INSTALLED_APPS = [
     'apps.tracker',
     'apps.marketplace',
     'apps.payments',
+    'apps.chatbot',
 ]
 
 MIDDLEWARE = [

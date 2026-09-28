@@ -5,7 +5,7 @@ import django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'somahome.settings')
 django.setup()
 
-from apps.core.models import User
+from apps.core.models import User, Student
 
 # Ensure Super Admin exists
 admin_user, _ = User.objects.get_or_create(
@@ -42,4 +42,30 @@ hq_user.role = 'ADMIN'
 hq_user.set_password('admin2026')
 hq_user.save()
 
-print("Clean seed complete: Super Admins 'admin' & 'admin_hq' configured.")
+# Ensure default Parent & Student exist
+parent_user = User.objects.filter(phone_number='0722123456').first()
+if not parent_user:
+    parent_user = User.objects.create(
+        username='mama_liam',
+        first_name='Mercy',
+        last_name='Njeri',
+        email='mercy@somahome.co.ke',
+        phone_number='0722123456',
+        role='PARENT',
+        estate='Kilimani, Nairobi'
+    )
+    parent_user.set_password('parent2026')
+    parent_user.save()
+
+student_liam = Student.objects.filter(parent=parent_user).first()
+if not student_liam:
+    student_liam = Student.objects.create(
+        parent=parent_user,
+        first_name='Liam',
+        last_name='Kariuki',
+        grade_level='Grade 4',
+        curriculum_code='CBC',
+        pin_code='4455'
+    )
+
+print("Clean seed complete: Super Admins, Parent Mercy, and Learner Liam configured.")

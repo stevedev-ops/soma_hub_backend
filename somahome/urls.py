@@ -84,4 +84,7 @@ urlpatterns = [
     # Safaricom M-Pesa Daraja
     path('api/payments/stk-push/', initiate_stk_push, name='stk_push'),
     path('api/payments/confirm-pin/', confirm_mpesa_pin, name='confirm_pin'),
+    
+    # AI Chatbot Assistant & Super Admin Logs
+    path('api/chatbot/', include('apps.chatbot.urls')),
 ]
