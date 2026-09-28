@@ -7,23 +7,25 @@ django.setup()
 
 from apps.core.models import User
 
-# Ensure Super Admin exists without touching any other user data
-admin_user, created = User.objects.get_or_create(
-    username='admin',
-    defaults={
-        'first_name': 'Super',
-        'last_name': 'Admin',
-        'email': 'admin@somahome.co.ke',
-        'role': 'ADMIN',
-        'is_staff': True,
-        'is_superuser': True
-    }
-)
+admin_usernames = ['super_admin', 'superadmin', 'admin', 'admin_hq']
 
-if not admin_user.is_superuser:
-    admin_user.is_staff = True
-    admin_user.is_superuser = True
-    admin_user.role = 'ADMIN'
-    admin_user.save()
+for uname in admin_usernames:
+    u, created = User.objects.get_or_create(
+        username=uname,
+        defaults={
+            'first_name': 'Super',
+            'last_name': 'Admin',
+            'email': f'{uname}@somahome.co.ke',
+            'role': 'ADMIN',
+            'is_staff': True,
+            'is_superuser': True
+        }
+    )
+    if not u.is_superuser:
+        u.is_staff = True
+        u.is_superuser = True
+        u.role = 'ADMIN'
+        u.set_password('admin123')
+        u.save()
 
-print("Super Admin check complete. User database preserved without reseeding.")
+print("Super Admin check complete.")
