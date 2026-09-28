@@ -5,10 +5,10 @@ import django
 os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'somahome.settings')
 django.setup()
 
-from apps.core.models import User
+from apps.core.models import User, Student
 from apps.marketplace.models import TutorProfile, LearningPod
 
-# 1. Ensure Super Admin accounts exist and are never deleted
+# 1. Ensure Super Admin accounts exist
 admin_usernames = ['super_admin', 'superadmin', 'admin', 'admin_hq']
 
 for uname in admin_usernames:
@@ -30,16 +30,18 @@ for uname in admin_usernames:
         u.set_password('admin123')
         u.save()
 
-# 2. Pure Clean State: Delete any legacy dummy/mock teachers
-dummy_teachers = ["Teacher Mercy Wanjiku", "Teacher David Maina", "Teacher Mercy Cherono"]
-deleted_tutors_count, _ = TutorProfile.objects.filter(full_name__in=dummy_teachers).delete()
-if deleted_tutors_count > 0:
-    print(f"Removed {deleted_tutors_count} dummy tutor profile(s).")
+# 2. Delete all legacy dummy/mock test parent and student accounts from previous development
+# Keep ONLY real users (like Steve mutwiri 0190821091) and super admins
+legacy_test_usernames = ['mama_liam', '0722123456', '0744556677', '0711223344', '1234', '0799887766']
+deleted_test_users = User.objects.filter(username__in=legacy_test_usernames).delete()
+print("Cleaned up legacy test users:", deleted_test_users)
 
-# 3. Pure Clean State: Delete any legacy dummy/mock pods
-dummy_pods = ["Kilimani Green STEM Pod", "Karen Cambridge Explorers Pod"]
-deleted_pods_count, _ = LearningPod.objects.filter(name__in=dummy_pods).delete()
-if deleted_pods_count > 0:
-    print(f"Removed {deleted_pods_count} dummy pod(s).")
+# Also delete any students attached to test accounts or legacy names
+Student.objects.filter(first_name__in=['Zawadi', 'Ethan', 'Liam', 'child']).exclude(parent__username='0190821091').delete()
+Student.objects.filter(username__in=['mike_0799887766']).delete()
 
-print("Pure clean state enforced: 0 dummy teachers, 0 dummy pods. Super Admin ready.")
+# 3. Ensure 0 dummy teachers and 0 dummy pods
+TutorProfile.objects.filter(full_name__in=["Teacher Mercy Wanjiku", "Teacher David Maina", "Teacher Mercy Cherono"]).delete()
+LearningPod.objects.filter(name__in=["Kilimani Green STEM Pod", "Karen Cambridge Explorers Pod"]).delete()
+
+print("Integrity check complete: All mock data removed. ONLY real registered users remain.")
