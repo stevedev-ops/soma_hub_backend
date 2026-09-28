@@ -314,6 +314,54 @@ def add_child_view(request):
         }
     }, status=status.HTTP_201_CREATED)
 
+
+@api_view(['PUT', 'PATCH', 'POST'])
+@permission_classes([AllowAny])
+def update_child_view(request, child_id):
+    student = Student.objects.filter(id=child_id).first()
+    if not student:
+        return Response({'error': f'Student with ID {child_id} not found.'}, status=status.HTTP_404_NOT_FOUND)
+
+    data = request.data
+    if 'name' in data and data['name'].strip():
+        parts = data['name'].strip().split(' ', 1)
+        student.first_name = parts[0]
+        student.last_name = parts[1] if len(parts) > 1 else ''
+
+    if 'grade' in data and data['grade']:
+        student.grade_level = data['grade'].strip()
+
+    if 'curriculum' in data and data['curriculum']:
+        student.curriculum_code = data['curriculum'].strip()
+
+    if 'pin' in data and data['pin']:
+        student.pin_code = str(data['pin']).strip()
+
+    student.save()
+
+    return Response({
+        'success': True,
+        'child': {
+            'id': student.id,
+            'name': f"{student.first_name} {student.last_name}".strip(),
+            'username': student.username,
+            'pin': student.pin_code,
+            'grade': student.grade_level,
+            'curriculum': student.curriculum_code,
+            'avatar': student.avatar_url
+        }
+    })
+
+@api_view(['DELETE', 'POST'])
+@permission_classes([AllowAny])
+def remove_child_view(request, child_id):
+    student = Student.objects.filter(id=child_id).first()
+    if not student:
+        return Response({'success': True, 'message': 'Student already removed.'})
+
+    student.delete()
+    return Response({'success': True, 'message': f'Student {child_id} removed successfully.'})
+
 @api_view(['GET'])
 def get_current_user(request):
     if request.user.is_authenticated:
