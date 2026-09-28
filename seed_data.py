@@ -21,11 +21,13 @@ for uname in admin_usernames:
             'is_superuser': True
         }
     )
-    if not u.is_superuser:
-        u.is_staff = True
-        u.is_superuser = True
-        u.role = 'ADMIN'
-        u.set_password('admin123')
-        u.save()
+    u.first_name = 'Super'
+    u.last_name = 'Admin'
+    u.role = 'ADMIN'
+    u.is_staff = True
+    u.is_superuser = True
+    u.set_password('admin123')
+    u.save()
+    print(f"Super Admin '{uname}' configured with password 'admin123'.")
 
-print("Super Admin check complete.")
+print("Super Admin seed complete.")
