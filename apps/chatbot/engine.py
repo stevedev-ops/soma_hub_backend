@@ -212,6 +212,64 @@ def try_gemini_llm(user_prompt: str, system_prompt: str) -> str:
     return None
 
 
+def try_groq_llm(user_prompt: str, system_prompt: str) -> str:
+    """Attempts to query Groq (Llama 3.3 70B) via high-speed API"""
+    groq_key = os.environ.get('GROQ_API_KEY')
+    if not groq_key:
+        return None
+    try:
+        import requests
+        url = "https://api.groq.com/openai/v1/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {groq_key}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "llama-3.3-70b-versatile",
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ],
+            "temperature": 0.6,
+            "max_tokens": 800
+        }
+        res = requests.post(url, json=payload, headers=headers, timeout=8)
+        if res.status_code == 200:
+            data = res.json()
+            return data.get('choices', [{}])[0].get('message', {}).get('content', '').strip()
+    except Exception:
+        pass
+    return None
+
+
+def try_openrouter_llm(user_prompt: str, system_prompt: str) -> str:
+    """Attempts to query OpenRouter free models"""
+    openrouter_key = os.environ.get('OPENROUTER_API_KEY')
+    if not openrouter_key:
+        return None
+    try:
+        import requests
+        url = "https://openrouter.ai/api/v1/chat/completions"
+        headers = {
+            "Authorization": f"Bearer {openrouter_key}",
+            "Content-Type": "application/json"
+        }
+        payload = {
+            "model": "meta-llama/llama-3.3-70b-instruct:free",
+            "messages": [
+                {"role": "system", "content": system_prompt},
+                {"role": "user", "content": user_prompt}
+            ]
+        }
+        res = requests.post(url, json=payload, headers=headers, timeout=8)
+        if res.status_code == 200:
+            data = res.json()
+            return data.get('choices', [{}])[0].get('message', {}).get('content', '').strip()
+    except Exception:
+        pass
+    return None
+
+
 def generate_bot_response(user_message: str, user: User = None, student: Student = None) -> tuple[str, dict]:
     raw = user_message.strip()
     clean = re.sub(r'[^a-zA-Z0-9\s]', ' ', raw).strip().lower()
@@ -251,7 +309,17 @@ Rules:
 3. If user says 'yes', 'sure', 'show me', present the learner's live project rubrics and daily schedule.
 4. Be friendly, structured, concise, and helpful with markdown bullet points."""
 
-    # 1. Try Local Ollama first
+    # 1. Try Groq (Llama 3.3 70B) - Ultra-fast & Free
+    groq_res = try_groq_llm(raw, system_prompt)
+    if groq_res:
+        return groq_res, {'provider': 'groq_llama3.3'}
+
+    # 2. Try OpenRouter (Free Llama 3.3)
+    openrouter_res = try_openrouter_llm(raw, system_prompt)
+    if openrouter_res:
+        return openrouter_res, {'provider': 'openrouter_llama3.3'}
+
+    # 3. Try Local Ollama first
     local_llm_res = try_local_ollama_llm(raw, system_prompt)
     if local_llm_res:
         return local_llm_res, {'provider': 'local_ollama'}
