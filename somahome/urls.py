@@ -17,6 +17,7 @@ from apps.marketplace.views import TutorViewSet, LearningPodViewSet
 from apps.payments.views import initiate_stk_push, confirm_mpesa_pin
 from apps.core.views import (
     login_view, register_view, get_current_user, add_child_view,
+    update_child_view, remove_child_view,
     learner_lookup_view, student_pin_login_view, admin_overview_view
 )
 
@@ -56,6 +57,8 @@ urlpatterns = [
     path('api/auth/student-pin-login/', student_pin_login_view, name='student_pin_login'),
     path('api/auth/me/', get_current_user, name='current_user'),
     path('api/parent/add-child/', add_child_view, name='add_child'),
+    path('api/parent/update-child/<int:child_id>/', update_child_view, name='update_child'),
+    path('api/parent/remove-child/<int:child_id>/', remove_child_view, name='remove_child'),
 
     # Pluggable Curriculum Frameworks & Creator APIs
     path('api/curriculum/frameworks/', frameworks_api, name='frameworks_api'),
