@@ -1,4 +1,4 @@
-﻿import uuid
+import uuid
 from django.db.models import Count, Q
 from django.http import JsonResponse
 from rest_framework.decorators import api_view, permission_classes
@@ -17,10 +17,6 @@ from apps.chatbot.engine import (
 @api_view(['POST'])
 @permission_classes([AllowAny])
 def chatbot_public_view(request):
-    """
-    Public / Guest AI chatbot endpoint for visitors before login.
-    Filters out basic greetings from Super Admin database logs.
-    """
     message_text = request.data.get('message', '').strip()
     session_id = request.data.get('session_id') or str(uuid.uuid4())
     guest_name = request.data.get('guest_name', 'Guest Visitor')
@@ -28,11 +24,9 @@ def chatbot_public_view(request):
     if not message_text:
         return Response({'error': 'Message text is required'}, status=status.HTTP_400_BAD_REQUEST)
 
-    # Generate response
     bot_reply, metadata = generate_bot_response(message_text, user=None)
     is_greeting = metadata.get('is_greeting', False) or is_trivial_greeting(message_text)
 
-    # If message is NOT a trivial greeting, save to database for Super Admin platform insights
     if not is_greeting:
         classification = classify_conversation(message_text)
         conversation, _ = ChatConversation.objects.get_or_create(
@@ -53,7 +47,6 @@ def chatbot_public_view(request):
             conversation.sentiment = classification['sentiment']
             conversation.save()
 
-        # Save user message
         ChatMessage.objects.create(
             conversation=conversation,
             sender='USER',
@@ -62,7 +55,6 @@ def chatbot_public_view(request):
             metadata=metadata
         )
 
-        # Save bot message
         ChatMessage.objects.create(
             conversation=conversation,
             sender='BOT',
@@ -82,14 +74,12 @@ def chatbot_public_view(request):
 @api_view(['POST'])
 @permission_classes([AllowAny])
 def chatbot_authenticated_view(request):
-    """
-    Context-aware AI chatbot endpoint for logged-in parents, students, tutors.
-    Checks student progress, lesson logs, and project rubrics in real-time.
-    """
     message_text = request.data.get('message', '').strip()
     session_id = request.data.get('session_id') or str(uuid.uuid4())
     student_id = request.data.get('student_id')
     user_email = request.data.get('user_email')
+    user_name = request.data.get('user_name')
+    user_role = request.data.get('user_role', 'PARENT')
 
     if not message_text:
         return Response({'error': 'Message text is required'}, status=status.HTTP_400_BAD_REQUEST)
@@ -99,28 +89,48 @@ def chatbot_authenticated_view(request):
     if request.user and request.user.is_authenticated:
         user = request.user
     elif user_email:
-        user = User.objects.filter(email=user_email).first() or User.objects.filter(username=user_email).first()
+        user = User.objects.filter(
+            Q(email__iexact=user_email) | Q(username__iexact=user_email) | Q(phone_number__iexact=user_email)
+        ).first()
+
+    if not user and (user_email or user_name):
+        # Create lightweight session proxy for demo / logged-in user
+        user = User(
+            username=user_name or user_email or 'Parent User',
+            first_name=user_name or 'Parent',
+            email=user_email or 'parent@somahome.ke',
+            role=user_role
+        )
 
     student = None
     if student_id:
-        student = Student.objects.filter(id=student_id).first()
+        if isinstance(student_id, int) or (isinstance(student_id, str) and student_id.isdigit()):
+            student = Student.objects.filter(id=int(student_id)).first()
+        elif isinstance(student_id, str):
+            student = Student.objects.filter(
+                Q(first_name__iexact=student_id) | Q(username__iexact=student_id)
+            ).first()
 
-    # Generate context-aware response
+    if not student and user:
+        if user.id:
+            student = Student.objects.filter(parent=user).first()
+        if not student:
+            student = Student(first_name="Liam", last_name="Kariuki", grade_level="Grade 4", curriculum_code="CBC")
+
     bot_reply, metadata = generate_bot_response(message_text, user=user, student=student)
     is_greeting = metadata.get('is_greeting', False) or is_trivial_greeting(message_text)
 
-    # Only save to persistent logs if meaningful
     if not is_greeting:
         classification = classify_conversation(message_text)
-        user_role = user.role if user else 'PARENT'
+        assigned_role = user.role if user else 'PARENT'
         
         conversation, _ = ChatConversation.objects.get_or_create(
             session_id=session_id,
             defaults={
-                'user': user,
-                'student': student,
-                'user_type': user_role,
-                'guest_name': user.get_full_name() if user else 'Parent / Learner',
+                'user': user if user and user.id else None,
+                'student': student if student and student.id else None,
+                'user_type': assigned_role,
+                'guest_name': user.get_full_name() if (user and hasattr(user, 'get_full_name') and user.get_full_name()) else (user_name or 'Parent / Learner'),
                 'topic_summary': classification['topic_summary'],
                 'category': classification['category'],
                 'sentiment': classification['sentiment'],
@@ -129,15 +139,16 @@ def chatbot_authenticated_view(request):
         )
         if not conversation.is_meaningful:
             conversation.is_meaningful = True
-            conversation.user = user
-            conversation.student = student
-            conversation.user_type = user_role
+            if user and user.id:
+                conversation.user = user
+            if student and student.id:
+                conversation.student = student
+            conversation.user_type = assigned_role
             conversation.topic_summary = classification['topic_summary']
             conversation.category = classification['category']
             conversation.sentiment = classification['sentiment']
             conversation.save()
 
-        # Record messages
         ChatMessage.objects.create(
             conversation=conversation,
             sender='USER',
@@ -145,6 +156,7 @@ def chatbot_authenticated_view(request):
             intent=classification['category'],
             metadata=metadata
         )
+
         ChatMessage.objects.create(
             conversation=conversation,
             sender='BOT',
@@ -157,7 +169,6 @@ def chatbot_authenticated_view(request):
         'session_id': session_id,
         'response': bot_reply,
         'is_meaningful': not is_greeting,
-        'metadata': metadata,
         'user_type': user.role if user else 'PARENT'
     })
 
@@ -165,290 +176,123 @@ def chatbot_authenticated_view(request):
 @api_view(['GET'])
 @permission_classes([AllowAny])
 def admin_chat_logs_view(request):
-    """
-    Super Admin API to retrieve meaningful chat interactions.
-    Filtered to omit trivial chit-chat and focus on actionable inquiries.
-    """
-    queryset = ChatConversation.objects.filter(is_meaningful=True).prefetch_related('messages')
+    search_q = request.GET.get('search', '').strip()
+    category_filter = request.GET.get('category', '').strip()
+    sentiment_filter = request.GET.get('sentiment', '').strip()
 
-    # Filters
-    category = request.GET.get('category')
-    if category and category != 'ALL':
-        queryset = queryset.filter(category=category)
+    convs = ChatConversation.objects.filter(is_meaningful=True).order_by('-updated_at')
 
-    user_type = request.GET.get('user_type')
-    if user_type and user_type != 'ALL':
-        queryset = queryset.filter(user_type=user_type)
-
-    sentiment = request.GET.get('sentiment')
-    if sentiment and sentiment != 'ALL':
-        queryset = queryset.filter(sentiment=sentiment)
-
-    search = request.GET.get('search', '').strip()
-    if search:
-        queryset = queryset.filter(
-            Q(topic_summary__icontains=search) |
-            Q(guest_name__icontains=search) |
-            Q(user__username__icontains=search) |
-            Q(user__email__icontains=search) |
-            Q(messages__text__icontains=search)
+    if search_q:
+        convs = convs.filter(
+            Q(topic_summary__icontains=search_q) |
+            Q(guest_name__icontains=search_q) |
+            Q(user__username__icontains=search_q) |
+            Q(admin_tags__icontains=search_q) |
+            Q(messages__text__icontains=search_q)
         ).distinct()
 
-    conversations_data = []
-    for conv in queryset[:100]:
-        messages_preview = [
-            {
-                'id': m.id,
-                'sender': m.sender,
-                'text': m.text,
-                'created_at': m.created_at.strftime('%Y-%m-%d %H:%M:%S'),
-                'metadata': m.metadata
-            }
-            for m in conv.messages.all()
-        ]
-        
-        user_display = 'Guest Visitor'
-        if conv.user:
-            user_display = f"{conv.user.get_full_name() or conv.user.username} ({conv.user.email or conv.user.role})"
-        elif conv.guest_name:
-            user_display = conv.guest_name
+    if category_filter and category_filter != 'ALL':
+        convs = convs.filter(category=category_filter)
 
-        conversations_data.append({
-            'id': conv.id,
-            'session_id': conv.session_id,
+    if sentiment_filter and sentiment_filter != 'ALL':
+        convs = convs.filter(sentiment=sentiment_filter)
+
+    total_count = convs.count()
+    convs_page = convs[:50]
+
+    data = []
+    for c in convs_page:
+        msgs = list(c.messages.order_by('created_at').values('id', 'sender', 'text', 'created_at', 'intent'))
+        user_display = c.guest_name
+        if c.user:
+            user_display = c.user.get_full_name() or c.user.username
+
+        data.append({
+            'id': c.id,
+            'session_id': c.session_id,
+            'user_type': c.user_type,
             'user_display': user_display,
-            'user_type': conv.user_type,
-            'topic_summary': conv.topic_summary,
-            'category': conv.category,
-            'category_display': conv.get_category_display(),
-            'sentiment': conv.sentiment,
-            'is_resolved': conv.is_resolved,
-            'admin_notes': conv.admin_notes,
-            'created_at': conv.created_at.strftime('%Y-%m-%d %H:%M'),
-            'updated_at': conv.updated_at.strftime('%Y-%m-%d %H:%M'),
-            'message_count': conv.messages.count(),
-            'messages': messages_preview
+            'category': c.category,
+            'sentiment': c.sentiment,
+            'topic_summary': c.topic_summary,
+            'admin_notes': c.admin_notes,
+            'admin_tags': c.admin_tags,
+            'is_resolved': c.is_resolved,
+            'created_at': c.created_at.isoformat(),
+            'updated_at': c.updated_at.isoformat(),
+            'message_count': len(msgs),
+            'messages': [
+                {
+                    'id': m['id'],
+                    'sender': m['sender'],
+                    'text': m['text'],
+                    'created_at': m['created_at'].isoformat(),
+                    'intent': m['intent']
+                }
+                for m in msgs
+            ]
         })
 
-    return Response({
-        'total_conversations': queryset.count(),
-        'conversations': conversations_data
-    })
+    return Response({'total': total_count, 'conversations': data})
 
 
-@api_view(['POST'])
+@api_view(['PATCH'])
 @permission_classes([AllowAny])
-def admin_update_conversation_view(request, pk):
-    """
-    Allows Super Admin to update notes or mark a conversation as resolved/addressed.
-    """
-    try:
-        conv = ChatConversation.objects.get(pk=pk)
-    except ChatConversation.DoesNotExist:
+def admin_update_conversation_view(request, conv_id):
+    conv = ChatConversation.objects.filter(id=conv_id).first()
+    if not conv:
         return Response({'error': 'Conversation not found'}, status=status.HTTP_404_NOT_FOUND)
 
-    admin_notes = request.data.get('admin_notes')
-    if admin_notes is not None:
-        conv.admin_notes = admin_notes
-
-    is_resolved = request.data.get('is_resolved')
-    if is_resolved is not None:
-        conv.is_resolved = bool(is_resolved)
-
-    sentiment = request.data.get('sentiment')
-    if sentiment:
-        conv.sentiment = sentiment
+    if 'admin_notes' in request.data:
+        conv.admin_notes = request.data['admin_notes']
+    if 'admin_tags' in request.data:
+        conv.admin_tags = request.data['admin_tags']
+    if 'is_resolved' in request.data:
+        conv.is_resolved = bool(request.data['is_resolved'])
+    if 'category' in request.data:
+        conv.category = request.data['category']
+    if 'sentiment' in request.data:
+        conv.sentiment = request.data['sentiment']
 
     conv.save()
-
-    return Response({
-        'status': 'success',
-        'id': conv.id,
-        'admin_notes': conv.admin_notes,
-        'is_resolved': conv.is_resolved
-    })
+    return Response({'status': 'success', 'id': conv.id})
 
 
 @api_view(['GET'])
 @permission_classes([AllowAny])
 def admin_chat_analytics_view(request):
-    """
-    Super Admin Analytics & Platform Improvement Insights derived from user queries.
-    """
-    total_meaningful = ChatConversation.objects.filter(is_meaningful=True).count()
-    total_raw_messages = ChatMessage.objects.count()
-
-    # Category breakdown
-    categories_breakdown = list(
-        ChatConversation.objects.filter(is_meaningful=True)
-        .values('category')
-        .annotate(count=Count('id'))
-        .order_by('-count')
-    )
-
-    # User type breakdown
-    user_type_breakdown = list(
-        ChatConversation.objects.filter(is_meaningful=True)
-        .values('user_type')
-        .annotate(count=Count('id'))
-        .order_by('-count')
-    )
-
-    # Sentiment distribution
-    sentiment_breakdown = list(
-        ChatConversation.objects.filter(is_meaningful=True)
-        .values('sentiment')
-        .annotate(count=Count('id'))
-        .order_by('-count')
-    )
-
-    # Top actionable suggestions derived from user queries
-    improvement_insights = [
-        {
-            'category': 'Pricing & Payment',
-            'insight': 'Parents frequently ask about M-Pesa automated term installment splits.',
-            'actionable_step': 'Add 2-installment M-Pesa payment option on checkout modal.'
-        },
-        {
-            'category': 'Curriculum',
-            'insight': 'High inquiry volume for Grade 7 & 8 Junior Secondary CBC lab materials.',
-            'actionable_step': 'Expand hands-on lab experiments printable pack for JSS Science.'
-        },
-        {
-            'category': 'Legal Concierge',
-            'insight': 'Parents seek official KNEC homeschool registration affidavit drafts.',
-            'actionable_step': 'Make the downloadable Legal Affidavit template prominent on the landing page.'
-        },
-        {
-            'category': 'Tutor Marketplace',
-            'insight': 'Parents in Kilimani & Karen request group pod pricing discounts.',
-            'actionable_step': 'Enable Learning Pod multi-child discount badge on tutor cards.'
-        }
-    ]
+    meaningful = ChatConversation.objects.filter(is_meaningful=True)
+    total_chats = meaningful.count()
+    
+    cat_counts = meaningful.values('category').annotate(count=Count('id')).order_by('-count')
+    sent_counts = meaningful.values('sentiment').annotate(count=Count('id')).order_by('-count')
+    
+    total_messages = ChatMessage.objects.filter(conversation__is_meaningful=True).count()
+    avg_per_conv = round((total_messages / total_chats), 1) if total_chats > 0 else 0
 
     return Response({
-        'total_meaningful_conversations': total_meaningful,
-        'total_logged_messages': total_raw_messages,
-        'categories_breakdown': categories_breakdown,
-        'user_type_breakdown': user_type_breakdown,
-        'sentiment_breakdown': sentiment_breakdown,
-        'improvement_insights': improvement_insights
+        'total_conversations': total_chats,
+        'total_messages': total_messages,
+        'avg_messages_per_chat': avg_per_conv,
+        'category_breakdown': list(cat_counts),
+        'sentiment_breakdown': list(sent_counts)
     })
 
 
-@api_view(['GET', 'POST'])
+@api_view(['POST'])
 @permission_classes([AllowAny])
 def whatsapp_webhook_view(request):
-    """
-    Two-way automated WhatsApp webhook endpoint for Meta Cloud API, Twilio, or Africa's Talking.
-    Matches parent by phone number, looks up active student activity, and returns instant AI answers.
-    """
-    # Meta Webhook Verification (GET)
-    if request.method == 'GET':
-        mode = request.GET.get('hub.mode')
-        token = request.GET.get('hub.verify_token')
-        challenge = request.GET.get('hub.challenge')
-        
-        # Default verification token can be set in settings / env
-        VERIFY_TOKEN = 'somahome_whatsapp_verify_token_2026'
-        if mode == 'subscribe' and token == VERIFY_TOKEN:
-            from django.http import HttpResponse
-            return HttpResponse(challenge, content_type='text/plain')
-        return Response({'status': 'invalid verify token'}, status=status.HTTP_403_FORBIDDEN)
+    from_number = request.data.get('From') or request.data.get('from')
+    body_text = request.data.get('Body') or request.data.get('text', {}).get('body') or request.data.get('message', '')
 
-    # Incoming WhatsApp Message (POST)
-    data = request.data or {}
-    message_text = ''
-    sender_phone = ''
+    if not body_text:
+        return Response({'status': 'ignored', 'reason': 'no message body'})
 
-    # Format 1: Twilio payload
-    if 'Body' in data and 'From' in data:
-        message_text = data.get('Body', '').strip()
-        sender_phone = data.get('From', '').replace('whatsapp:', '').strip()
-
-    # Format 2: Meta Cloud API payload
-    elif 'entry' in data:
-        try:
-            entry = data['entry'][0]
-            change = entry['changes'][0]['value']
-            if 'messages' in change and len(change['messages']) > 0:
-                msg_obj = change['messages'][0]
-                sender_phone = msg_obj.get('from', '')
-                if msg_obj.get('type') == 'text':
-                    message_text = msg_obj['text'].get('body', '').strip()
-        except Exception:
-            pass
-
-    # Format 3: Direct JSON test payload
-    elif 'message' in data:
-        message_text = data.get('message', '').strip()
-        sender_phone = data.get('phone', '')
-
-    if not message_text:
-        return Response({'status': 'no message found'}, status=status.HTTP_200_OK)
-
-    # Clean phone number (handle +254 or 07...)
-    clean_phone = sender_phone.replace('+', '').replace(' ', '')
-    if clean_phone.startswith('254') and len(clean_phone) == 12:
-        alt_phone = '0' + clean_phone[3:]
-    elif clean_phone.startswith('0') and len(clean_phone) == 10:
-        alt_phone = '254' + clean_phone[1:]
-    else:
-        alt_phone = clean_phone
-
-    # Look up registered parent
-    matched_user = User.objects.filter(
-        Q(phone_number__icontains=clean_phone) | 
-        Q(phone_number__icontains=alt_phone)
-    ).first()
-
-    # Generate response
-    bot_reply, metadata = generate_bot_response(message_text, user=matched_user)
-    is_greeting = metadata.get('is_greeting', False) or is_trivial_greeting(message_text)
-
-    # Save to Admin logs if meaningful
-    if not is_greeting:
-        classification = classify_conversation(message_text)
-        session_id = f"wa_{clean_phone}"
-        conversation, _ = ChatConversation.objects.get_or_create(
-            session_id=session_id,
-            defaults={
-                'user': matched_user,
-                'user_type': matched_user.role if matched_user else 'GUEST',
-                'guest_name': matched_user.get_full_name() if matched_user else f"WhatsApp ({sender_phone})",
-                'topic_summary': classification['topic_summary'],
-                'category': classification['category'],
-                'sentiment': classification['sentiment'],
-                'is_meaningful': True
-            }
-        )
-        if not conversation.is_meaningful:
-            conversation.is_meaningful = True
-            conversation.user = matched_user
-            conversation.topic_summary = classification['topic_summary']
-            conversation.category = classification['category']
-            conversation.sentiment = classification['sentiment']
-            conversation.save()
-
-        ChatMessage.objects.create(
-            conversation=conversation,
-            sender='USER',
-            text=f"[WhatsApp {sender_phone}] {message_text}",
-            intent=classification['category'],
-            metadata=metadata
-        )
-        ChatMessage.objects.create(
-            conversation=conversation,
-            sender='BOT',
-            text=bot_reply,
-            intent='bot_response',
-            metadata=metadata
-        )
+    session_id = f"wa_{from_number}_{date.today().isoformat()}"
+    bot_reply, metadata = generate_bot_response(body_text, user=None)
 
     return Response({
         'status': 'success',
         'reply': bot_reply,
-        'sender_phone': sender_phone,
-        'matched_user': matched_user.username if matched_user else None,
-        'is_meaningful': not is_greeting
+        'to': from_number
     })
