@@ -188,7 +188,7 @@ def admin_chat_logs_view(request):
             Q(topic_summary__icontains=search_q) |
             Q(guest_name__icontains=search_q) |
             Q(user__username__icontains=search_q) |
-            Q(admin_tags__icontains=search_q) |
+            Q(admin_notes__icontains=search_q) |
             Q(messages__text__icontains=search_q)
         ).distinct()
 
@@ -217,7 +217,7 @@ def admin_chat_logs_view(request):
             'sentiment': c.sentiment,
             'topic_summary': c.topic_summary,
             'admin_notes': c.admin_notes,
-            'admin_tags': c.admin_tags,
+            'admin_tags': getattr(c, 'admin_tags', ''),
             'is_resolved': c.is_resolved,
             'created_at': c.created_at.isoformat(),
             'updated_at': c.updated_at.isoformat(),
@@ -246,7 +246,7 @@ def admin_update_conversation_view(request, conv_id):
 
     if 'admin_notes' in request.data:
         conv.admin_notes = request.data['admin_notes']
-    if 'admin_tags' in request.data:
+    if 'admin_tags' in request.data and hasattr(conv, 'admin_tags'):
         conv.admin_tags = request.data['admin_tags']
     if 'is_resolved' in request.data:
         conv.is_resolved = bool(request.data['is_resolved'])
