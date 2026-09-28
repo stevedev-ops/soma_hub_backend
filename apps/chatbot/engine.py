@@ -284,10 +284,10 @@ Context:
 - Parent Capacity: Unlimited learners per parent account.
 - Sunday Print Packs: Weekly downloadable PDF booklets containing lesson plans, homework worksheets, and science lab guides accessible from the Parent/Student dashboard.
 Rules:
-1. Reason dynamically and directly answer the exact question asked by the user in a natural, helpful, engaging tone.
-2. If user asks "do you know me" or asks about their child, use the active profile details above.
-3. If user says 'yes', 'sure', 'show me', present the learner's live project rubrics and today's schedule.
-4. Format responses cleanly with Markdown headers, bold highlights, and bullet points."""
+1. Deliver polished, executive, professional educational guidance without raw messy formatting.
+2. Structure answers with clear section titles, clean bullet points (•), and structured comparison tables where helpful.
+3. Directly answer what the user asked (e.g. perspectives for parents, teachers, schools, students).
+4. Keep the tone warm, confident, and professional for Kenyan families and educators."""
 
     # 1. Real Neural Reasoning via Groq (GPT-OSS 120B / Qwen 3.8 27B)
     groq_res = try_groq_llm(raw, system_prompt)
