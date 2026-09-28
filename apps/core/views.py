@@ -1,3 +1,4 @@
+from django.db.models import Q
 from rest_framework.decorators import api_view, permission_classes
 from rest_framework.permissions import AllowAny
 from rest_framework.response import Response
@@ -130,12 +131,28 @@ def login_view(request):
                 }
             })
 
-    # 2. Check Standard User Login
-    user = authenticate(username=username, password=password)
+    # 2. Check Standard User Login (with flexible username normalization)
+    username_variants = [
+        username,
+        username.lower(),
+        username.lower().replace(' ', '_'),
+        username.lower().replace(' ', ''),
+        username.replace('_', ' ')
+    ]
+    
+    user = None
+    for variant in username_variants:
+        user = authenticate(username=variant, password=password)
+        if user:
+            break
+
     if not user:
-        by_phone = User.objects.filter(phone_number=username).first()
-        if by_phone and by_phone.check_password(password):
-            user = by_phone
+        # Check by email or phone number
+        by_identifier = User.objects.filter(
+            Q(phone_number=username) | Q(email__iexact=username) | Q(username__iexact=username) | Q(username__iexact=username.replace(' ', '_'))
+        ).first()
+        if by_identifier and by_identifier.check_password(password):
+            user = by_identifier
 
     if not user:
         return Response({'error': 'Invalid credentials. Please verify your phone/username and password.'}, status=status.HTTP_401_UNAUTHORIZED)
