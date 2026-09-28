@@ -17,7 +17,7 @@ from apps.marketplace.views import TutorViewSet, LearningPodViewSet
 from apps.payments.views import initiate_stk_push, confirm_mpesa_pin
 from apps.core.views import (
     login_view, register_view, get_current_user, add_child_view,
-    learner_lookup_view, student_pin_login_view
+    learner_lookup_view, student_pin_login_view, admin_overview_view
 )
 
 def health_check(request):
@@ -49,6 +49,7 @@ urlpatterns = [
     path('api/', include(router.urls)),
     
     # Auth & Self-Registration & Learner PIN Login
+    path('api/admin/overview/', admin_overview_view, name='admin_overview'),
     path('api/auth/register/', register_view, name='register'),
     path('api/auth/login/', login_view, name='login'),
     path('api/auth/learner-lookup/', learner_lookup_view, name='learner_lookup'),

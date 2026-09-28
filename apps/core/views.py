@@ -329,3 +329,70 @@ def get_current_user(request):
             }
         })
     return Response({'error': 'Not authenticated'}, status=status.HTTP_401_UNAUTHORIZED)
+
+
+@api_view(['GET'])
+@permission_classes([AllowAny])
+def admin_overview_view(request):
+    try:
+        from apps.marketplace.models import TutorProfile, LearningPod
+        from apps.payments.models import MpesaTransaction
+    except ImportError:
+        TutorProfile = None
+        LearningPod = None
+        MpesaTransaction = None
+
+    total_students = Student.objects.count()
+    total_parents = User.objects.filter(role='PARENT').count()
+    total_tutors = TutorProfile.objects.count() if TutorProfile else 0
+    total_pods = LearningPod.objects.count() if LearningPod else 0
+    total_users = User.objects.count()
+
+    total_mpesa_kes = 0.0
+    successful_tx_count = 0
+    if MpesaTransaction:
+        successful_txs = MpesaTransaction.objects.filter(status='SUCCESS')
+        total_mpesa_kes = float(sum(t.amount for t in successful_txs))
+        successful_tx_count = successful_txs.count()
+
+    students_list = []
+    for s in Student.objects.select_related('parent').all().order_by('-id')[:50]:
+        parent_name = f"{s.parent.first_name} {s.parent.last_name}".strip() or s.parent.username
+        students_list.append({
+            'id': s.id,
+            'name': f"{s.first_name} {s.last_name}".strip(),
+            'username': s.username,
+            'grade': s.grade_level,
+            'curriculum': s.curriculum_code,
+            'pin': s.pin_code,
+            'parent_name': parent_name,
+            'parent_phone': s.parent.phone_number or s.parent.username,
+            'estate': s.parent.estate,
+            'avatar': s.avatar_url
+        })
+
+    parents_list = []
+    for p in User.objects.filter(role='PARENT').order_by('-id')[:50]:
+        kids = list(p.students.all())
+        parents_list.append({
+            'id': p.id,
+            'name': f"{p.first_name} {p.last_name}".strip() or p.username,
+            'username': p.username,
+            'phone': p.phone_number or p.username,
+            'estate': p.estate,
+            'date_joined': p.date_joined.strftime('%d %b %Y') if p.date_joined else 'Recent',
+            'children_count': len(kids),
+            'children': [f"{k.first_name} {k.last_name}".strip() + f" ({k.grade_level})" for k in kids]
+        })
+
+    return Response({
+        'total_students': total_students,
+        'total_parents': total_parents,
+        'total_teachers': total_tutors,
+        'total_pods': total_pods,
+        'total_users': total_users,
+        'mpesa_volume_kes': total_mpesa_kes,
+        'mpesa_successful_transactions': successful_tx_count,
+        'students': students_list,
+        'parents': parents_list
+    })
